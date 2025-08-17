@@ -1,0 +1,1001 @@
+Date,OrderID,ProductID,ProductName,Category,UnitsSold,PricePerUnit_INR,DiscountPercentage,Region
+2024-10-16,ORD1001,PID214,Ceramic Dinner Set,Home & Kitchen,2,10669.55,13,Kolkata
+2023-04-25,ORD1002,PID241,Children Storybook,Books,4,1301.67,32,Kolkata
+2023-01-26,ORD1003,PID208,Bamboo Chopping Board,Home & Kitchen,4,3882.84,15,Chennai
+2023-10-09,ORD1004,PID230,Pixel Tablet,Electronics,11,20124.94,36,Delhi
+2023-09-08,ORD1005,PID214,Ceramic Dinner Set,Home & Kitchen,1,13851.46,0,Chennai
+2023-08-17,ORD1006,PID228,Cookbook,Books,1,1195.55,0,Delhi
+2023-05-23,ORD1007,PID236,Vacuum Cleaner,Home & Kitchen,5,13001.2,40,Bangalore
+2023-04-15,ORD1008,PID218,Cookbook,Books,5,1227.21,38,Kolkata
+2024-11-23,ORD1009,PID209,Vacuum Cleaner,Home & Kitchen,3,5296.17,0,Chennai
+2024-07-12,ORD1010,PID227,Science Textbook,Books,1,620.61,0,Mumbai
+2023-03-31,ORD1011,PID217,Zen Laptop,Electronics,2,29798.73,0,Bangalore
+2024-08-27,ORD1012,PID218,Cookbook,Books,1,1304.97,0,Chennai
+2024-03-08,ORD1013,PID229,Volt Headphones,Electronics,1,79923.16,0,Kolkata
+2023-02-02,ORD1014,PID224,LED Table Lamp,Home & Kitchen,1,13019.33,9,Kolkata
+2023-01-31,ORD1015,PID232,Volt Headphones,Electronics,3,47700.64,0,Bangalore
+2023-04-06,ORD1016,PID233,Smart Vision TV,Electronics,7,33270.8,39,Chennai
+2023-08-12,ORD1017,PID231,LED Table Lamp,Home & Kitchen,3,5844.99,0,Bangalore
+2023-08-27,ORD1018,PID233,Smart Vision TV,Electronics,2,70872.12,0,Delhi
+2024-06-01,ORD1019,PID216,Pixel Tablet,Electronics,5,50025.83,0,Delhi
+2024-09-08,ORD1020,PID219,Science Textbook,Books,6,1327.22,30,Kolkata
+2023-01-28,ORD1021,PID232,Volt Headphones,Electronics,4,13055.31,0,Kolkata
+2024-07-28,ORD1022,PID210,Children Storybook,Books,5,1146.27,0,Kolkata
+2023-07-23,ORD1023,PID206,Bamboo Chopping Board,Home & Kitchen,3,5975.36,0,Delhi
+2024-10-27,ORD1024,PID240,Leather Wallet,Fashion,4,2728.98,31,Mumbai
+2024-12-19,ORD1025,PID227,Science Textbook,Books,3,451.5,0,Chennai
+2024-07-12,ORD1026,PID201,Mystery Novel,Books,1,698.39,0,Mumbai
+2024-03-05,ORD1027,PID238,Zen Laptop,Electronics,2,71193.33,0,Kolkata
+2023-08-14,ORD1028,PID235,Zen Laptop,Electronics,2,16979.82,0,Kolkata
+2024-04-04,ORD1029,PID226,Bamboo Chopping Board,Home & Kitchen,2,525.61,17,Delhi
+2024-08-26,ORD1030,PID247,Urban Denim Jacket,Fashion,4,2344.9,0,Delhi
+2023-10-12,ORD1031,PID238,Zen Laptop,Electronics,6,15237.98,0,Bangalore
+2023-01-07,ORD1032,PID210,Children Storybook,Books,5,706.27,0,Kolkata
+2023-06-13,ORD1033,PID236,Vacuum Cleaner,Home & Kitchen,4,9852.6,0,Bangalore
+2024-12-15,ORD1034,PID233,Smart Vision TV,Electronics,4,69663.89,0,Chennai
+2024-03-08,ORD1035,PID241,Children Storybook,Books,5,756.01,18,Bangalore
+2023-12-15,ORD1036,PID249,Cotton T-shirt,Fashion,5,3320.6,24,Kolkata
+2023-10-12,ORD1037,PID226,Bamboo Chopping Board,Home & Kitchen,5,13124.03,0,Mumbai
+2023-06-09,ORD1038,PID214,Ceramic Dinner Set,Home & Kitchen,5,9376.65,25,Delhi
+2023-08-09,ORD1039,PID207,Volt Headphones,Electronics,4,54181.27,17,Bangalore
+2023-12-11,ORD1040,PID227,Science Textbook,Books,9,1496.91,21,Mumbai
+2023-04-15,ORD1041,PID236,Vacuum Cleaner,Home & Kitchen,3,6679.38,0,Mumbai
+2023-04-05,ORD1042,PID209,Vacuum Cleaner,Home & Kitchen,2,11477.43,0,Mumbai
+2024-01-25,ORD1043,PID205,Leather Wallet,Fashion,5,2496.55,0,Bangalore
+2023-04-10,ORD1044,PID230,Pixel Tablet,Electronics,1,73239.68,0,Mumbai
+2024-01-03,ORD1045,PID233,Smart Vision TV,Electronics,4,32706.23,37,Mumbai
+2023-12-19,ORD1046,PID227,Science Textbook,Books,4,652.04,12,Bangalore
+2024-09-10,ORD1047,PID235,Zen Laptop,Electronics,7,40148.08,26,Delhi
+2023-09-28,ORD1048,PID214,Ceramic Dinner Set,Home & Kitchen,8,8108.14,30,Chennai
+2023-02-14,ORD1049,PID201,Mystery Novel,Books,7,1118.16,28,Delhi
+2024-04-15,ORD1050,PID235,Zen Laptop,Electronics,5,21898.86,0,Mumbai
+2024-07-03,ORD1051,PID215,Zen Laptop,Electronics,4,52664.43,36,Kolkata
+2023-05-08,ORD1052,PID208,Bamboo Chopping Board,Home & Kitchen,3,9409.74,0,Delhi
+2024-01-23,ORD1053,PID236,Vacuum Cleaner,Home & Kitchen,1,7615.71,0,Chennai
+2023-03-22,ORD1054,PID217,Zen Laptop,Electronics,5,20018.24,0,Kolkata
+2024-07-19,ORD1055,PID207,Volt Headphones,Electronics,3,54653.32,0,Kolkata
+2023-10-28,ORD1056,PID225,Zen Laptop,Electronics,7,27872.87,0,Mumbai
+2024-10-05,ORD1057,PID210,Children Storybook,Books,6,1378.69,0,Kolkata
+2024-09-25,ORD1058,PID231,LED Table Lamp,Home & Kitchen,5,13547.78,0,Chennai
+2024-01-06,ORD1059,PID244,Vacuum Cleaner,Home & Kitchen,2,2622.24,0,Kolkata
+2024-08-14,ORD1060,PID224,LED Table Lamp,Home & Kitchen,6,14194.96,36,Chennai
+2023-07-16,ORD1061,PID230,Pixel Tablet,Electronics,4,30940.8,0,Kolkata
+2024-12-22,ORD1062,PID241,Children Storybook,Books,7,1128.38,0,Kolkata
+2023-03-13,ORD1063,PID230,Pixel Tablet,Electronics,1,69171.27,0,Delhi
+2023-02-16,ORD1064,PID211,Smart Vision TV,Electronics,1,79956.15,0,Kolkata
+2024-11-08,ORD1065,PID220,Sports Shoes,Fashion,4,979.94,0,Kolkata
+2023-08-22,ORD1066,PID235,Zen Laptop,Electronics,6,50034.59,37,Chennai
+2023-10-24,ORD1067,PID231,LED Table Lamp,Home & Kitchen,5,4649.32,27,Bangalore
+2023-03-23,ORD1068,PID219,Science Textbook,Books,5,326.33,0,Kolkata
+2023-08-27,ORD1069,PID214,Ceramic Dinner Set,Home & Kitchen,4,4334.86,0,Chennai
+2023-04-14,ORD1070,PID235,Zen Laptop,Electronics,4,70554.72,0,Mumbai
+2024-01-25,ORD1071,PID250,Vacuum Cleaner,Home & Kitchen,3,13686.07,0,Kolkata
+2023-10-12,ORD1072,PID223,Bamboo Chopping Board,Home & Kitchen,3,12542.73,0,Bangalore
+2024-04-09,ORD1073,PID232,Volt Headphones,Electronics,5,64301.87,0,Delhi
+2024-10-12,ORD1074,PID246,Mystery Novel,Books,4,1028.48,19,Bangalore
+2024-01-09,ORD1075,PID248,Mystery Novel,Books,5,562.81,29,Delhi
+2023-06-16,ORD1076,PID229,Volt Headphones,Electronics,6,53462.38,22,Delhi
+2024-01-15,ORD1077,PID250,Vacuum Cleaner,Home & Kitchen,1,9535.25,0,Mumbai
+2023-12-30,ORD1078,PID205,Leather Wallet,Fashion,6,1890.2,36,Kolkata
+2023-08-03,ORD1079,PID204,Aura Smartphone,Electronics,4,12335.52,0,Bangalore
+2024-11-17,ORD1080,PID206,Bamboo Chopping Board,Home & Kitchen,9,11065.69,37,Mumbai
+2023-10-01,ORD1081,PID219,Science Textbook,Books,8,1391.55,28,Bangalore
+2024-12-19,ORD1082,PID204,Aura Smartphone,Electronics,4,62323.66,0,Delhi
+2024-11-30,ORD1083,PID223,Bamboo Chopping Board,Home & Kitchen,5,3251.68,36,Chennai
+2024-10-25,ORD1084,PID214,Ceramic Dinner Set,Home & Kitchen,7,13183.97,25,Bangalore
+2023-03-15,ORD1085,PID230,Pixel Tablet,Electronics,3,47159.67,0,Bangalore
+2024-09-15,ORD1086,PID212,Volt Headphones,Electronics,3,68133.08,0,Bangalore
+2024-10-12,ORD1087,PID236,Vacuum Cleaner,Home & Kitchen,8,13736.52,26,Kolkata
+2023-06-25,ORD1088,PID233,Smart Vision TV,Electronics,5,77716.89,27,Bangalore
+2024-06-30,ORD1089,PID233,Smart Vision TV,Electronics,10,62259.15,25,Bangalore
+2023-09-08,ORD1090,PID201,Mystery Novel,Books,1,1265.08,9,Kolkata
+2023-06-17,ORD1091,PID211,Smart Vision TV,Electronics,5,77402.53,0,Delhi
+2024-04-18,ORD1092,PID204,Aura Smartphone,Electronics,6,62790.6,21,Delhi
+2024-01-24,ORD1093,PID225,Zen Laptop,Electronics,2,70209.84,19,Kolkata
+2023-10-04,ORD1094,PID208,Bamboo Chopping Board,Home & Kitchen,1,14518.87,0,Chennai
+2024-10-17,ORD1095,PID237,Children Storybook,Books,1,738.93,18,Kolkata
+2024-12-05,ORD1096,PID249,Cotton T-shirt,Fashion,4,562.63,0,Chennai
+2024-07-24,ORD1097,PID234,Children Storybook,Books,2,448.31,0,Bangalore
+2023-08-13,ORD1098,PID234,Children Storybook,Books,3,1107.39,0,Bangalore
+2024-12-02,ORD1099,PID203,Non-stick Fry Pan,Home & Kitchen,4,8893.03,18,Bangalore
+2023-11-29,ORD1100,PID231,LED Table Lamp,Home & Kitchen,5,1892.69,38,Delhi
+2023-02-27,ORD1101,PID245,Smart Vision TV,Electronics,2,43003.38,7,Chennai
+2023-08-23,ORD1102,PID218,Cookbook,Books,5,1361.08,0,Chennai
+2023-02-02,ORD1103,PID224,LED Table Lamp,Home & Kitchen,3,5121.69,0,Chennai
+2023-11-20,ORD1104,PID238,Zen Laptop,Electronics,8,25495.7,0,Mumbai
+2024-02-15,ORD1105,PID205,Leather Wallet,Fashion,6,3359.32,29,Kolkata
+2023-10-02,ORD1106,PID233,Smart Vision TV,Electronics,4,73657.13,0,Bangalore
+2023-03-09,ORD1107,PID221,Children Storybook,Books,7,1079.09,27,Mumbai
+2023-08-05,ORD1108,PID247,Urban Denim Jacket,Fashion,4,1129.0,10,Mumbai
+2024-08-03,ORD1109,PID218,Cookbook,Books,2,665.24,14,Kolkata
+2023-11-19,ORD1110,PID210,Children Storybook,Books,3,439.34,0,Delhi
+2023-08-06,ORD1111,PID230,Pixel Tablet,Electronics,4,72108.15,0,Delhi
+2024-11-02,ORD1112,PID204,Aura Smartphone,Electronics,7,37205.21,5,Bangalore
+2024-05-26,ORD1113,PID203,Non-stick Fry Pan,Home & Kitchen,6,10156.15,19,Chennai
+2024-02-10,ORD1114,PID247,Urban Denim Jacket,Fashion,8,2386.07,23,Delhi
+2024-10-20,ORD1115,PID201,Mystery Novel,Books,5,1362.5,13,Mumbai
+2024-04-14,ORD1116,PID225,Zen Laptop,Electronics,4,68358.52,0,Chennai
+2023-05-27,ORD1117,PID228,Cookbook,Books,4,789.74,0,Bangalore
+2023-09-29,ORD1118,PID214,Ceramic Dinner Set,Home & Kitchen,5,780.93,25,Bangalore
+2023-05-23,ORD1119,PID248,Mystery Novel,Books,5,560.72,0,Kolkata
+2023-09-10,ORD1120,PID208,Bamboo Chopping Board,Home & Kitchen,9,14273.16,31,Bangalore
+2024-07-28,ORD1121,PID205,Leather Wallet,Fashion,6,947.1,15,Bangalore
+2024-07-05,ORD1122,PID228,Cookbook,Books,3,953.36,0,Bangalore
+2023-09-27,ORD1123,PID243,Silk Saree,Fashion,4,772.48,0,Bangalore
+2024-08-21,ORD1124,PID201,Mystery Novel,Books,3,527.77,0,Mumbai
+2024-03-14,ORD1125,PID235,Zen Laptop,Electronics,4,76430.76,0,Kolkata
+2024-08-20,ORD1126,PID213,Vacuum Cleaner,Home & Kitchen,8,1647.6,22,Delhi
+2024-02-13,ORD1127,PID206,Bamboo Chopping Board,Home & Kitchen,2,9733.06,20,Chennai
+2024-01-06,ORD1128,PID201,Mystery Novel,Books,5,1465.31,8,Mumbai
+2023-08-13,ORD1129,PID247,Urban Denim Jacket,Fashion,5,4040.58,0,Delhi
+2023-05-22,ORD1130,PID247,Urban Denim Jacket,Fashion,8,4949.69,27,Chennai
+2024-06-05,ORD1131,PID210,Children Storybook,Books,4,546.25,8,Chennai
+2024-05-20,ORD1132,PID248,Mystery Novel,Books,6,548.59,29,Delhi
+2023-04-04,ORD1133,PID208,Bamboo Chopping Board,Home & Kitchen,4,12251.88,0,Delhi
+2023-02-18,ORD1134,PID208,Bamboo Chopping Board,Home & Kitchen,7,5129.83,22,Delhi
+2023-04-23,ORD1135,PID221,Children Storybook,Books,5,1246.37,0,Chennai
+2023-06-06,ORD1136,PID239,Vacuum Cleaner,Home & Kitchen,1,341.68,0,Delhi
+2024-10-04,ORD1137,PID234,Children Storybook,Books,1,1485.03,0,Chennai
+2023-06-13,ORD1138,PID232,Volt Headphones,Electronics,2,27545.79,0,Delhi
+2024-11-27,ORD1139,PID220,Sports Shoes,Fashion,4,994.67,7,Mumbai
+2024-03-08,ORD1140,PID233,Smart Vision TV,Electronics,4,19226.23,11,Bangalore
+2024-09-02,ORD1141,PID220,Sports Shoes,Fashion,4,4054.93,0,Delhi
+2023-03-07,ORD1142,PID214,Ceramic Dinner Set,Home & Kitchen,2,8956.14,0,Mumbai
+2024-01-30,ORD1143,PID247,Urban Denim Jacket,Fashion,6,1284.11,22,Mumbai
+2024-01-26,ORD1144,PID222,Volt Headphones,Electronics,1,18873.1,0,Kolkata
+2024-09-02,ORD1145,PID220,Sports Shoes,Fashion,3,2867.38,0,Mumbai
+2024-04-24,ORD1146,PID213,Vacuum Cleaner,Home & Kitchen,5,7300.82,0,Bangalore
+2024-06-25,ORD1147,PID204,Aura Smartphone,Electronics,2,45926.66,0,Mumbai
+2023-09-15,ORD1148,PID246,Mystery Novel,Books,2,842.41,0,Delhi
+2024-07-20,ORD1149,PID230,Pixel Tablet,Electronics,4,76179.1,0,Mumbai
+2023-01-12,ORD1150,PID224,LED Table Lamp,Home & Kitchen,2,10990.47,0,Chennai
+2024-11-27,ORD1151,PID212,Volt Headphones,Electronics,8,31114.12,8,Mumbai
+2023-04-28,ORD1152,PID204,Aura Smartphone,Electronics,5,14257.78,28,Kolkata
+2024-11-29,ORD1153,PID201,Mystery Novel,Books,2,1316.76,0,Kolkata
+2024-07-03,ORD1154,PID242,Aura Smartphone,Electronics,4,58026.82,0,Kolkata
+2023-10-01,ORD1155,PID229,Volt Headphones,Electronics,9,59868.09,8,Kolkata
+2024-10-18,ORD1156,PID222,Volt Headphones,Electronics,8,15144.35,0,Mumbai
+2023-12-15,ORD1157,PID212,Volt Headphones,Electronics,4,32547.83,20,Delhi
+2023-04-25,ORD1158,PID216,Pixel Tablet,Electronics,8,14597.76,30,Bangalore
+2023-10-28,ORD1159,PID243,Silk Saree,Fashion,4,3309.43,0,Chennai
+2024-03-21,ORD1160,PID221,Children Storybook,Books,4,958.03,0,Bangalore
+2023-06-11,ORD1161,PID247,Urban Denim Jacket,Fashion,6,2214.07,0,Chennai
+2024-04-09,ORD1162,PID246,Mystery Novel,Books,3,936.67,0,Kolkata
+2023-01-04,ORD1163,PID222,Volt Headphones,Electronics,8,45388.58,21,Kolkata
+2023-09-27,ORD1164,PID234,Children Storybook,Books,8,419.01,21,Mumbai
+2024-05-27,ORD1165,PID213,Vacuum Cleaner,Home & Kitchen,2,12836.05,0,Chennai
+2023-07-02,ORD1166,PID216,Pixel Tablet,Electronics,7,60458.79,0,Delhi
+2024-06-03,ORD1167,PID222,Volt Headphones,Electronics,4,40104.9,0,Delhi
+2023-04-19,ORD1168,PID241,Children Storybook,Books,2,796.58,0,Kolkata
+2024-10-02,ORD1169,PID224,LED Table Lamp,Home & Kitchen,5,6161.33,18,Mumbai
+2023-11-02,ORD1170,PID219,Science Textbook,Books,5,675.06,0,Bangalore
+2024-10-16,ORD1171,PID228,Cookbook,Books,2,1098.13,0,Bangalore
+2024-06-03,ORD1172,PID201,Mystery Novel,Books,6,1444.31,24,Kolkata
+2024-09-15,ORD1173,PID218,Cookbook,Books,5,380.56,16,Mumbai
+2023-07-23,ORD1174,PID243,Silk Saree,Fashion,4,919.54,0,Mumbai
+2023-06-06,ORD1175,PID207,Volt Headphones,Electronics,2,62121.23,0,Bangalore
+2024-01-18,ORD1176,PID206,Bamboo Chopping Board,Home & Kitchen,8,12233.01,36,Chennai
+2023-06-15,ORD1177,PID204,Aura Smartphone,Electronics,5,14198.67,16,Chennai
+2024-07-06,ORD1178,PID242,Aura Smartphone,Electronics,5,49317.84,0,Mumbai
+2024-06-27,ORD1179,PID236,Vacuum Cleaner,Home & Kitchen,2,6338.89,0,Kolkata
+2023-01-01,ORD1180,PID244,Vacuum Cleaner,Home & Kitchen,9,13060.95,28,Mumbai
+2024-09-05,ORD1181,PID223,Bamboo Chopping Board,Home & Kitchen,4,14535.46,0,Chennai
+2023-11-28,ORD1182,PID221,Children Storybook,Books,3,674.94,14,Mumbai
+2024-05-15,ORD1183,PID212,Volt Headphones,Electronics,3,50454.3,12,Delhi
+2023-01-20,ORD1184,PID244,Vacuum Cleaner,Home & Kitchen,1,2574.53,0,Kolkata
+2023-04-25,ORD1185,PID231,LED Table Lamp,Home & Kitchen,3,3596.4,0,Mumbai
+2024-01-07,ORD1186,PID243,Silk Saree,Fashion,8,2075.51,34,Chennai
+2023-11-11,ORD1187,PID236,Vacuum Cleaner,Home & Kitchen,2,5703.15,0,Bangalore
+2023-09-03,ORD1188,PID236,Vacuum Cleaner,Home & Kitchen,6,8739.27,12,Kolkata
+2023-03-01,ORD1189,PID207,Volt Headphones,Electronics,2,69160.86,0,Chennai
+2023-09-04,ORD1190,PID220,Sports Shoes,Fashion,3,3261.08,17,Chennai
+2024-08-03,ORD1191,PID241,Children Storybook,Books,2,331.5,0,Bangalore
+2023-03-22,ORD1192,PID236,Vacuum Cleaner,Home & Kitchen,4,725.61,0,Bangalore
+2023-03-29,ORD1193,PID224,LED Table Lamp,Home & Kitchen,1,10629.67,0,Bangalore
+2024-05-12,ORD1194,PID242,Aura Smartphone,Electronics,5,74507.63,10,Bangalore
+2023-03-12,ORD1195,PID248,Mystery Novel,Books,5,307.33,21,Delhi
+2024-06-29,ORD1196,PID214,Ceramic Dinner Set,Home & Kitchen,4,8624.92,0,Kolkata
+2023-05-09,ORD1197,PID225,Zen Laptop,Electronics,4,14870.98,0,Mumbai
+2023-05-12,ORD1198,PID249,Cotton T-shirt,Fashion,5,912.91,34,Chennai
+2024-11-06,ORD1199,PID228,Cookbook,Books,2,558.16,8,Kolkata
+2024-05-01,ORD1200,PID201,Mystery Novel,Books,3,844.37,0,Delhi
+2024-07-16,ORD1201,PID221,Children Storybook,Books,2,744.06,0,Bangalore
+2023-06-19,ORD1202,PID240,Leather Wallet,Fashion,8,3995.76,0,Chennai
+2023-09-29,ORD1203,PID215,Zen Laptop,Electronics,3,51735.66,0,Mumbai
+2024-06-24,ORD1204,PID203,Non-stick Fry Pan,Home & Kitchen,5,2587.02,0,Chennai
+2024-09-13,ORD1205,PID214,Ceramic Dinner Set,Home & Kitchen,5,1031.51,0,Mumbai
+2024-03-09,ORD1206,PID240,Leather Wallet,Fashion,7,1724.46,38,Kolkata
+2023-08-05,ORD1207,PID208,Bamboo Chopping Board,Home & Kitchen,2,7439.23,0,Kolkata
+2024-07-06,ORD1208,PID222,Volt Headphones,Electronics,3,38992.86,0,Delhi
+2024-12-07,ORD1209,PID202,Silk Saree,Fashion,8,3897.24,30,Mumbai
+2023-07-25,ORD1210,PID224,LED Table Lamp,Home & Kitchen,1,5374.04,0,Mumbai
+2024-12-31,ORD1211,PID203,Non-stick Fry Pan,Home & Kitchen,1,4463.72,0,Chennai
+2023-11-16,ORD1212,PID209,Vacuum Cleaner,Home & Kitchen,5,7453.5,0,Bangalore
+2024-02-13,ORD1213,PID219,Science Textbook,Books,4,354.5,15,Kolkata
+2024-11-18,ORD1214,PID210,Children Storybook,Books,7,1481.33,34,Mumbai
+2024-10-27,ORD1215,PID204,Aura Smartphone,Electronics,12,10538.1,0,Bangalore
+2024-01-18,ORD1216,PID223,Bamboo Chopping Board,Home & Kitchen,5,14196.26,0,Delhi
+2024-03-24,ORD1217,PID230,Pixel Tablet,Electronics,8,63491.26,29,Bangalore
+2024-06-13,ORD1218,PID237,Children Storybook,Books,7,693.75,34,Mumbai
+2024-04-07,ORD1219,PID242,Aura Smartphone,Electronics,7,44816.97,0,Kolkata
+2023-05-04,ORD1220,PID218,Cookbook,Books,4,510.83,40,Kolkata
+2023-09-11,ORD1221,PID238,Zen Laptop,Electronics,7,47280.76,29,Delhi
+2023-08-19,ORD1222,PID217,Zen Laptop,Electronics,8,45018.36,27,Bangalore
+2023-03-07,ORD1223,PID211,Smart Vision TV,Electronics,5,15045.28,0,Mumbai
+2023-12-13,ORD1224,PID206,Bamboo Chopping Board,Home & Kitchen,4,6712.43,0,Kolkata
+2023-01-22,ORD1225,PID232,Volt Headphones,Electronics,7,74481.37,40,Bangalore
+2024-08-25,ORD1226,PID250,Vacuum Cleaner,Home & Kitchen,7,8763.66,0,Chennai
+2024-07-21,ORD1227,PID226,Bamboo Chopping Board,Home & Kitchen,7,6245.02,15,Kolkata
+2023-08-24,ORD1228,PID232,Volt Headphones,Electronics,5,30266.06,33,Kolkata
+2024-08-25,ORD1229,PID232,Volt Headphones,Electronics,3,11459.96,0,Bangalore
+2023-08-14,ORD1230,PID234,Children Storybook,Books,4,506.25,0,Chennai
+2023-01-08,ORD1231,PID245,Smart Vision TV,Electronics,6,42206.78,0,Bangalore
+2023-03-14,ORD1232,PID224,LED Table Lamp,Home & Kitchen,3,1595.51,0,Mumbai
+2024-12-25,ORD1233,PID212,Volt Headphones,Electronics,6,27032.15,23,Chennai
+2024-10-08,ORD1234,PID235,Zen Laptop,Electronics,4,38031.49,0,Mumbai
+2023-03-02,ORD1235,PID208,Bamboo Chopping Board,Home & Kitchen,4,6117.77,0,Bangalore
+2023-08-23,ORD1236,PID211,Smart Vision TV,Electronics,3,62206.34,13,Delhi
+2023-03-11,ORD1237,PID204,Aura Smartphone,Electronics,3,33314.8,0,Delhi
+2023-02-02,ORD1238,PID206,Bamboo Chopping Board,Home & Kitchen,3,1422.78,0,Mumbai
+2023-12-05,ORD1239,PID212,Volt Headphones,Electronics,5,47142.34,0,Delhi
+2023-03-14,ORD1240,PID212,Volt Headphones,Electronics,8,73414.59,27,Bangalore
+2024-06-10,ORD1241,PID234,Children Storybook,Books,5,721.32,0,Delhi
+2023-09-01,ORD1242,PID234,Children Storybook,Books,6,583.52,29,Delhi
+2023-10-13,ORD1243,PID235,Zen Laptop,Electronics,6,27917.78,13,Delhi
+2024-11-16,ORD1244,PID210,Children Storybook,Books,5,1022.88,5,Mumbai
+2024-05-12,ORD1245,PID238,Zen Laptop,Electronics,5,22400.23,5,Kolkata
+2023-08-08,ORD1246,PID249,Cotton T-shirt,Fashion,5,2587.79,0,Chennai
+2024-07-06,ORD1247,PID207,Volt Headphones,Electronics,2,63191.4,0,Kolkata
+2023-05-16,ORD1248,PID206,Bamboo Chopping Board,Home & Kitchen,4,10312.66,10,Chennai
+2024-08-07,ORD1249,PID208,Bamboo Chopping Board,Home & Kitchen,5,9751.98,0,Chennai
+2024-08-13,ORD1250,PID215,Zen Laptop,Electronics,6,32624.58,35,Bangalore
+2024-04-29,ORD1251,PID240,Leather Wallet,Fashion,5,1179.31,24,Mumbai
+2023-09-06,ORD1252,PID249,Cotton T-shirt,Fashion,4,2610.14,32,Bangalore
+2024-04-29,ORD1253,PID223,Bamboo Chopping Board,Home & Kitchen,1,12006.05,0,Chennai
+2024-02-21,ORD1254,PID239,Vacuum Cleaner,Home & Kitchen,2,1125.73,0,Chennai
+2023-07-14,ORD1255,PID216,Pixel Tablet,Electronics,2,15193.35,0,Kolkata
+2023-04-07,ORD1256,PID223,Bamboo Chopping Board,Home & Kitchen,2,6943.13,0,Mumbai
+2023-04-10,ORD1257,PID225,Zen Laptop,Electronics,2,35811.63,0,Bangalore
+2024-11-05,ORD1258,PID222,Volt Headphones,Electronics,6,15371.17,0,Mumbai
+2024-03-17,ORD1259,PID231,LED Table Lamp,Home & Kitchen,4,9340.62,0,Chennai
+2023-12-29,ORD1260,PID243,Silk Saree,Fashion,1,2230.17,0,Chennai
+2024-03-09,ORD1261,PID212,Volt Headphones,Electronics,7,48802.15,31,Mumbai
+2024-02-25,ORD1262,PID210,Children Storybook,Books,6,839.68,0,Chennai
+2024-04-23,ORD1263,PID248,Mystery Novel,Books,1,1082.2,0,Bangalore
+2023-02-25,ORD1264,PID212,Volt Headphones,Electronics,5,52350.41,18,Chennai
+2024-11-20,ORD1265,PID203,Non-stick Fry Pan,Home & Kitchen,5,2517.66,17,Mumbai
+2024-10-31,ORD1266,PID204,Aura Smartphone,Electronics,6,41536.62,0,Bangalore
+2024-10-23,ORD1267,PID221,Children Storybook,Books,7,1478.86,37,Mumbai
+2023-04-11,ORD1268,PID224,LED Table Lamp,Home & Kitchen,5,7716.87,0,Delhi
+2023-03-04,ORD1269,PID224,LED Table Lamp,Home & Kitchen,7,875.39,0,Kolkata
+2024-02-17,ORD1270,PID244,Vacuum Cleaner,Home & Kitchen,3,14867.49,0,Chennai
+2023-12-14,ORD1271,PID226,Bamboo Chopping Board,Home & Kitchen,5,7984.4,0,Delhi
+2023-04-22,ORD1272,PID233,Smart Vision TV,Electronics,8,35472.86,24,Bangalore
+2023-09-12,ORD1273,PID207,Volt Headphones,Electronics,6,37119.16,40,Bangalore
+2023-07-16,ORD1274,PID238,Zen Laptop,Electronics,3,57522.84,0,Mumbai
+2023-07-14,ORD1275,PID218,Cookbook,Books,1,1247.07,0,Bangalore
+2024-07-03,ORD1276,PID213,Vacuum Cleaner,Home & Kitchen,4,1268.9,7,Mumbai
+2024-04-04,ORD1277,PID229,Volt Headphones,Electronics,3,49057.42,5,Kolkata
+2023-05-24,ORD1278,PID224,LED Table Lamp,Home & Kitchen,4,4476.96,0,Chennai
+2024-03-08,ORD1279,PID203,Non-stick Fry Pan,Home & Kitchen,1,13137.21,0,Bangalore
+2023-07-07,ORD1280,PID243,Silk Saree,Fashion,5,866.76,10,Delhi
+2023-10-13,ORD1281,PID224,LED Table Lamp,Home & Kitchen,6,13776.17,26,Bangalore
+2024-04-18,ORD1282,PID231,LED Table Lamp,Home & Kitchen,2,14525.14,0,Kolkata
+2023-09-13,ORD1283,PID223,Bamboo Chopping Board,Home & Kitchen,3,2195.59,0,Mumbai
+2023-03-19,ORD1284,PID225,Zen Laptop,Electronics,4,31670.73,0,Kolkata
+2024-03-29,ORD1285,PID222,Volt Headphones,Electronics,2,55044.53,0,Bangalore
+2024-07-17,ORD1286,PID230,Pixel Tablet,Electronics,1,66922.93,0,Chennai
+2023-04-11,ORD1287,PID247,Urban Denim Jacket,Fashion,2,920.54,0,Kolkata
+2023-02-21,ORD1288,PID223,Bamboo Chopping Board,Home & Kitchen,1,7774.78,0,Mumbai
+2024-10-29,ORD1289,PID209,Vacuum Cleaner,Home & Kitchen,1,5630.19,17,Delhi
+2024-07-07,ORD1290,PID212,Volt Headphones,Electronics,7,76581.85,0,Bangalore
+2023-01-16,ORD1291,PID220,Sports Shoes,Fashion,4,4764.51,30,Kolkata
+2023-04-06,ORD1292,PID206,Bamboo Chopping Board,Home & Kitchen,3,3122.48,0,Delhi
+2023-08-31,ORD1293,PID216,Pixel Tablet,Electronics,4,20846.16,0,Bangalore
+2023-06-20,ORD1294,PID207,Volt Headphones,Electronics,5,69109.99,21,Mumbai
+2024-02-21,ORD1295,PID215,Zen Laptop,Electronics,5,45538.28,34,Chennai
+2024-05-12,ORD1296,PID229,Volt Headphones,Electronics,5,68458.39,0,Chennai
+2024-05-07,ORD1297,PID237,Children Storybook,Books,4,345.3,0,Bangalore
+2023-08-07,ORD1298,PID233,Smart Vision TV,Electronics,4,71347.49,0,Chennai
+2024-02-15,ORD1299,PID218,Cookbook,Books,4,457.26,5,Kolkata
+2023-03-02,ORD1300,PID245,Smart Vision TV,Electronics,4,20797.69,0,Delhi
+2023-06-18,ORD1301,PID226,Bamboo Chopping Board,Home & Kitchen,5,12520.77,0,Chennai
+2024-01-24,ORD1302,PID215,Zen Laptop,Electronics,4,66633.06,11,Delhi
+2023-01-03,ORD1303,PID226,Bamboo Chopping Board,Home & Kitchen,1,10901.39,11,Mumbai
+2024-02-04,ORD1304,PID239,Vacuum Cleaner,Home & Kitchen,2,6339.62,0,Delhi
+2023-09-29,ORD1305,PID236,Vacuum Cleaner,Home & Kitchen,4,14552.95,0,Chennai
+2024-04-10,ORD1306,PID224,LED Table Lamp,Home & Kitchen,4,4488.44,18,Kolkata
+2023-10-20,ORD1307,PID229,Volt Headphones,Electronics,7,26380.21,0,Delhi
+2024-03-09,ORD1308,PID228,Cookbook,Books,3,671.36,0,Kolkata
+2024-12-14,ORD1309,PID223,Bamboo Chopping Board,Home & Kitchen,4,13588.42,14,Delhi
+2024-07-23,ORD1310,PID243,Silk Saree,Fashion,7,2155.28,10,Chennai
+2024-11-08,ORD1311,PID245,Smart Vision TV,Electronics,6,78910.79,0,Kolkata
+2024-05-13,ORD1312,PID209,Vacuum Cleaner,Home & Kitchen,7,11610.75,22,Kolkata
+2023-06-08,ORD1313,PID247,Urban Denim Jacket,Fashion,7,2763.08,18,Kolkata
+2023-07-14,ORD1314,PID236,Vacuum Cleaner,Home & Kitchen,3,14504.14,0,Delhi
+2023-10-31,ORD1315,PID215,Zen Laptop,Electronics,7,66088.15,0,Delhi
+2023-08-11,ORD1316,PID214,Ceramic Dinner Set,Home & Kitchen,6,13133.13,26,Mumbai
+2023-03-01,ORD1317,PID238,Zen Laptop,Electronics,1,54882.53,6,Bangalore
+2024-08-16,ORD1318,PID209,Vacuum Cleaner,Home & Kitchen,5,8451.75,0,Mumbai
+2024-07-09,ORD1319,PID208,Bamboo Chopping Board,Home & Kitchen,3,10757.59,21,Chennai
+2023-03-04,ORD1320,PID207,Volt Headphones,Electronics,4,69581.62,0,Bangalore
+2023-11-18,ORD1321,PID240,Leather Wallet,Fashion,3,877.44,0,Delhi
+2023-02-28,ORD1322,PID213,Vacuum Cleaner,Home & Kitchen,5,4310.03,0,Chennai
+2023-02-21,ORD1323,PID219,Science Textbook,Books,1,476.82,0,Kolkata
+2024-08-21,ORD1324,PID208,Bamboo Chopping Board,Home & Kitchen,1,1648.19,0,Delhi
+2024-05-03,ORD1325,PID248,Mystery Novel,Books,5,1280.04,0,Bangalore
+2024-05-29,ORD1326,PID212,Volt Headphones,Electronics,6,75133.03,39,Kolkata
+2024-06-27,ORD1327,PID228,Cookbook,Books,4,363.91,0,Chennai
+2023-06-11,ORD1328,PID230,Pixel Tablet,Electronics,3,36177.3,0,Kolkata
+2023-02-28,ORD1329,PID210,Children Storybook,Books,7,1493.43,31,Bangalore
+2024-06-04,ORD1330,PID207,Volt Headphones,Electronics,4,25717.71,23,Bangalore
+2023-03-24,ORD1331,PID221,Children Storybook,Books,7,1416.99,24,Bangalore
+2023-07-10,ORD1332,PID245,Smart Vision TV,Electronics,2,65396.64,0,Delhi
+2023-03-12,ORD1333,PID249,Cotton T-shirt,Fashion,6,672.36,12,Kolkata
+2024-09-01,ORD1334,PID205,Leather Wallet,Fashion,6,3632.32,0,Delhi
+2023-03-11,ORD1335,PID224,LED Table Lamp,Home & Kitchen,3,11454.96,0,Kolkata
+2024-11-22,ORD1336,PID215,Zen Laptop,Electronics,8,41402.1,0,Mumbai
+2023-08-29,ORD1337,PID205,Leather Wallet,Fashion,4,4576.36,0,Mumbai
+2024-02-18,ORD1338,PID249,Cotton T-shirt,Fashion,5,1651.66,0,Delhi
+2023-05-03,ORD1339,PID225,Zen Laptop,Electronics,4,48416.3,16,Chennai
+2024-08-06,ORD1340,PID247,Urban Denim Jacket,Fashion,5,2874.97,33,Mumbai
+2023-09-10,ORD1341,PID216,Pixel Tablet,Electronics,3,64332.08,0,Delhi
+2024-08-15,ORD1342,PID224,LED Table Lamp,Home & Kitchen,2,4726.92,0,Mumbai
+2024-08-31,ORD1343,PID219,Science Textbook,Books,6,586.13,0,Chennai
+2023-02-10,ORD1344,PID229,Volt Headphones,Electronics,2,41997.95,0,Mumbai
+2024-09-26,ORD1345,PID206,Bamboo Chopping Board,Home & Kitchen,3,12599.31,0,Kolkata
+2023-03-25,ORD1346,PID232,Volt Headphones,Electronics,8,51771.73,33,Mumbai
+2024-03-05,ORD1347,PID213,Vacuum Cleaner,Home & Kitchen,8,9589.74,34,Chennai
+2024-11-04,ORD1348,PID248,Mystery Novel,Books,2,590.33,0,Delhi
+2024-08-20,ORD1349,PID221,Children Storybook,Books,9,649.53,30,Mumbai
+2024-08-01,ORD1350,PID216,Pixel Tablet,Electronics,6,53036.67,28,Delhi
+2024-06-19,ORD1351,PID228,Cookbook,Books,4,984.8,14,Delhi
+2023-11-20,ORD1352,PID209,Vacuum Cleaner,Home & Kitchen,4,10066.26,0,Mumbai
+2023-09-25,ORD1353,PID240,Leather Wallet,Fashion,3,2855.68,19,Bangalore
+2023-07-29,ORD1354,PID216,Pixel Tablet,Electronics,9,14737.55,23,Chennai
+2024-11-16,ORD1355,PID233,Smart Vision TV,Electronics,9,48085.74,10,Chennai
+2023-11-18,ORD1356,PID216,Pixel Tablet,Electronics,10,48790.64,0,Kolkata
+2023-09-02,ORD1357,PID215,Zen Laptop,Electronics,2,71133.2,0,Mumbai
+2023-09-29,ORD1358,PID228,Cookbook,Books,1,1062.8,9,Bangalore
+2024-02-10,ORD1359,PID238,Zen Laptop,Electronics,4,27755.52,19,Mumbai
+2023-05-15,ORD1360,PID220,Sports Shoes,Fashion,2,2106.92,0,Mumbai
+2024-11-18,ORD1361,PID213,Vacuum Cleaner,Home & Kitchen,2,5368.6,5,Mumbai
+2024-10-22,ORD1362,PID214,Ceramic Dinner Set,Home & Kitchen,5,11641.07,0,Bangalore
+2023-11-04,ORD1363,PID228,Cookbook,Books,6,460.09,36,Bangalore
+2024-04-13,ORD1364,PID238,Zen Laptop,Electronics,8,48220.96,37,Delhi
+2023-11-20,ORD1365,PID231,LED Table Lamp,Home & Kitchen,4,12506.64,0,Kolkata
+2023-03-16,ORD1366,PID213,Vacuum Cleaner,Home & Kitchen,5,14718.04,15,Kolkata
+2023-01-10,ORD1367,PID212,Volt Headphones,Electronics,5,54221.51,8,Delhi
+2024-04-14,ORD1368,PID218,Cookbook,Books,7,375.72,26,Kolkata
+2024-09-28,ORD1369,PID241,Children Storybook,Books,3,344.38,0,Delhi
+2024-07-30,ORD1370,PID210,Children Storybook,Books,5,352.57,0,Delhi
+2023-04-13,ORD1371,PID211,Smart Vision TV,Electronics,4,72005.33,0,Bangalore
+2023-03-17,ORD1372,PID212,Volt Headphones,Electronics,1,75335.97,0,Chennai
+2024-07-04,ORD1373,PID218,Cookbook,Books,3,777.87,0,Chennai
+2023-08-07,ORD1374,PID202,Silk Saree,Fashion,1,2630.3,0,Mumbai
+2024-06-02,ORD1375,PID221,Children Storybook,Books,4,1203.95,0,Delhi
+2023-09-29,ORD1376,PID248,Mystery Novel,Books,2,643.33,0,Mumbai
+2023-05-16,ORD1377,PID220,Sports Shoes,Fashion,3,4396.09,12,Bangalore
+2023-12-24,ORD1378,PID203,Non-stick Fry Pan,Home & Kitchen,4,4316.28,0,Bangalore
+2023-03-12,ORD1379,PID235,Zen Laptop,Electronics,6,40586.6,0,Kolkata
+2023-09-08,ORD1380,PID246,Mystery Novel,Books,1,1191.97,0,Kolkata
+2024-01-14,ORD1381,PID231,LED Table Lamp,Home & Kitchen,8,5283.84,25,Delhi
+2023-10-19,ORD1382,PID237,Children Storybook,Books,7,895.44,35,Kolkata
+2023-06-11,ORD1383,PID205,Leather Wallet,Fashion,8,2153.06,0,Chennai
+2024-03-24,ORD1384,PID221,Children Storybook,Books,4,620.06,0,Mumbai
+2024-07-10,ORD1385,PID209,Vacuum Cleaner,Home & Kitchen,5,10988.1,0,Mumbai
+2024-12-21,ORD1386,PID235,Zen Laptop,Electronics,9,40142.5,38,Delhi
+2023-11-06,ORD1387,PID216,Pixel Tablet,Electronics,6,48183.21,0,Bangalore
+2024-09-18,ORD1388,PID232,Volt Headphones,Electronics,1,17181.85,8,Bangalore
+2024-10-31,ORD1389,PID225,Zen Laptop,Electronics,3,56264.35,0,Bangalore
+2024-06-25,ORD1390,PID201,Mystery Novel,Books,6,835.1,40,Kolkata
+2023-01-09,ORD1391,PID221,Children Storybook,Books,1,499.97,0,Kolkata
+2024-11-14,ORD1392,PID236,Vacuum Cleaner,Home & Kitchen,5,5467.74,38,Mumbai
+2024-07-21,ORD1393,PID232,Volt Headphones,Electronics,3,60877.01,0,Bangalore
+2023-11-03,ORD1394,PID232,Volt Headphones,Electronics,6,53039.6,0,Kolkata
+2024-11-10,ORD1395,PID233,Smart Vision TV,Electronics,11,29218.88,14,Mumbai
+2023-04-17,ORD1396,PID222,Volt Headphones,Electronics,4,15252.88,12,Kolkata
+2023-05-18,ORD1397,PID203,Non-stick Fry Pan,Home & Kitchen,1,5640.67,0,Delhi
+2023-09-28,ORD1398,PID220,Sports Shoes,Fashion,4,4787.55,16,Delhi
+2023-04-29,ORD1399,PID250,Vacuum Cleaner,Home & Kitchen,6,12775.44,20,Kolkata
+2023-04-20,ORD1400,PID212,Volt Headphones,Electronics,3,12435.93,7,Mumbai
+2024-07-20,ORD1401,PID212,Volt Headphones,Electronics,4,26519.68,6,Bangalore
+2023-06-09,ORD1402,PID224,LED Table Lamp,Home & Kitchen,5,5623.61,40,Chennai
+2023-10-06,ORD1403,PID243,Silk Saree,Fashion,7,645.73,31,Delhi
+2023-10-16,ORD1404,PID224,LED Table Lamp,Home & Kitchen,5,10282.21,0,Bangalore
+2024-09-11,ORD1405,PID224,LED Table Lamp,Home & Kitchen,1,5768.6,0,Mumbai
+2023-08-04,ORD1406,PID236,Vacuum Cleaner,Home & Kitchen,2,8736.65,15,Chennai
+2023-12-18,ORD1407,PID226,Bamboo Chopping Board,Home & Kitchen,7,5694.16,40,Bangalore
+2023-07-28,ORD1408,PID220,Sports Shoes,Fashion,7,3423.02,0,Delhi
+2024-12-04,ORD1409,PID215,Zen Laptop,Electronics,4,77236.4,0,Mumbai
+2024-10-11,ORD1410,PID216,Pixel Tablet,Electronics,12,61497.24,24,Kolkata
+2023-09-28,ORD1411,PID234,Children Storybook,Books,1,921.29,0,Chennai
+2024-06-01,ORD1412,PID240,Leather Wallet,Fashion,9,1029.92,0,Bangalore
+2024-05-15,ORD1413,PID201,Mystery Novel,Books,1,1144.85,0,Delhi
+2023-09-15,ORD1414,PID218,Cookbook,Books,1,1495.64,15,Bangalore
+2023-02-22,ORD1415,PID215,Zen Laptop,Electronics,5,58578.64,0,Kolkata
+2023-04-05,ORD1416,PID209,Vacuum Cleaner,Home & Kitchen,4,3242.62,0,Delhi
+2024-10-11,ORD1417,PID233,Smart Vision TV,Electronics,7,69697.84,0,Kolkata
+2024-03-09,ORD1418,PID228,Cookbook,Books,7,507.19,36,Kolkata
+2023-10-11,ORD1419,PID220,Sports Shoes,Fashion,4,4987.68,0,Bangalore
+2023-02-15,ORD1420,PID201,Mystery Novel,Books,5,1101.41,0,Mumbai
+2023-01-04,ORD1421,PID232,Volt Headphones,Electronics,4,48499.8,27,Bangalore
+2023-12-08,ORD1422,PID219,Science Textbook,Books,3,1369.6,0,Delhi
+2023-05-14,ORD1423,PID228,Cookbook,Books,5,1154.17,0,Delhi
+2024-10-14,ORD1424,PID240,Leather Wallet,Fashion,5,4071.63,40,Chennai
+2023-09-26,ORD1425,PID229,Volt Headphones,Electronics,2,25696.91,0,Delhi
+2023-06-15,ORD1426,PID223,Bamboo Chopping Board,Home & Kitchen,1,11943.37,0,Delhi
+2024-03-28,ORD1427,PID225,Zen Laptop,Electronics,1,65326.11,0,Mumbai
+2024-07-18,ORD1428,PID224,LED Table Lamp,Home & Kitchen,2,5605.18,0,Chennai
+2024-12-23,ORD1429,PID209,Vacuum Cleaner,Home & Kitchen,4,5722.99,0,Chennai
+2024-03-13,ORD1430,PID241,Children Storybook,Books,2,455.73,0,Mumbai
+2024-07-28,ORD1431,PID237,Children Storybook,Books,3,378.9,0,Kolkata
+2023-01-10,ORD1432,PID248,Mystery Novel,Books,2,1499.51,0,Kolkata
+2023-04-25,ORD1433,PID224,LED Table Lamp,Home & Kitchen,8,8027.73,26,Kolkata
+2023-03-19,ORD1434,PID229,Volt Headphones,Electronics,6,67633.76,0,Mumbai
+2024-12-08,ORD1435,PID241,Children Storybook,Books,6,450.39,13,Bangalore
+2023-06-02,ORD1436,PID205,Leather Wallet,Fashion,7,3390.52,11,Kolkata
+2024-07-12,ORD1437,PID245,Smart Vision TV,Electronics,5,42608.32,0,Chennai
+2023-02-06,ORD1438,PID233,Smart Vision TV,Electronics,5,34116.03,11,Chennai
+2024-01-14,ORD1439,PID234,Children Storybook,Books,6,1067.75,10,Delhi
+2024-08-19,ORD1440,PID215,Zen Laptop,Electronics,6,63744.71,22,Delhi
+2024-07-19,ORD1441,PID222,Volt Headphones,Electronics,7,40283.28,36,Mumbai
+2023-06-01,ORD1442,PID217,Zen Laptop,Electronics,4,68197.36,0,Chennai
+2024-03-16,ORD1443,PID218,Cookbook,Books,2,483.62,0,Delhi
+2023-05-11,ORD1444,PID231,LED Table Lamp,Home & Kitchen,5,2680.91,0,Delhi
+2023-02-12,ORD1445,PID219,Science Textbook,Books,7,715.23,28,Chennai
+2023-11-12,ORD1446,PID233,Smart Vision TV,Electronics,10,72644.81,38,Mumbai
+2024-01-09,ORD1447,PID226,Bamboo Chopping Board,Home & Kitchen,6,3983.9,29,Chennai
+2023-02-10,ORD1448,PID243,Silk Saree,Fashion,5,1735.03,14,Bangalore
+2024-01-02,ORD1449,PID245,Smart Vision TV,Electronics,1,53009.98,0,Mumbai
+2023-08-04,ORD1450,PID241,Children Storybook,Books,9,903.09,25,Delhi
+2024-11-29,ORD1451,PID231,LED Table Lamp,Home & Kitchen,6,8999.58,25,Chennai
+2023-09-13,ORD1452,PID212,Volt Headphones,Electronics,4,20793.6,0,Chennai
+2024-11-13,ORD1453,PID237,Children Storybook,Books,5,1164.76,0,Chennai
+2023-04-16,ORD1454,PID217,Zen Laptop,Electronics,3,33633.37,0,Chennai
+2023-12-29,ORD1455,PID247,Urban Denim Jacket,Fashion,5,685.37,34,Mumbai
+2024-07-27,ORD1456,PID245,Smart Vision TV,Electronics,4,15685.6,0,Chennai
+2024-02-21,ORD1457,PID216,Pixel Tablet,Electronics,3,28525.91,0,Delhi
+2024-09-27,ORD1458,PID226,Bamboo Chopping Board,Home & Kitchen,4,11574.3,29,Kolkata
+2023-06-08,ORD1459,PID209,Vacuum Cleaner,Home & Kitchen,4,9386.19,0,Mumbai
+2023-08-31,ORD1460,PID203,Non-stick Fry Pan,Home & Kitchen,3,7621.16,0,Chennai
+2023-06-16,ORD1461,PID212,Volt Headphones,Electronics,3,30277.02,0,Bangalore
+2023-07-01,ORD1462,PID250,Vacuum Cleaner,Home & Kitchen,6,7399.29,24,Kolkata
+2024-02-27,ORD1463,PID229,Volt Headphones,Electronics,4,30820.37,0,Mumbai
+2023-01-26,ORD1464,PID215,Zen Laptop,Electronics,5,58202.95,0,Delhi
+2023-07-03,ORD1465,PID231,LED Table Lamp,Home & Kitchen,4,6762.2,0,Kolkata
+2023-12-07,ORD1466,PID208,Bamboo Chopping Board,Home & Kitchen,5,7127.3,33,Bangalore
+2024-02-26,ORD1467,PID216,Pixel Tablet,Electronics,1,52466.22,0,Bangalore
+2024-11-16,ORD1468,PID237,Children Storybook,Books,6,1333.78,0,Bangalore
+2023-09-12,ORD1469,PID232,Volt Headphones,Electronics,3,61393.98,6,Bangalore
+2023-10-01,ORD1470,PID246,Mystery Novel,Books,8,1470.45,24,Delhi
+2023-06-13,ORD1471,PID221,Children Storybook,Books,2,1212.8,14,Chennai
+2024-12-19,ORD1472,PID244,Vacuum Cleaner,Home & Kitchen,5,8556.27,11,Bangalore
+2023-04-21,ORD1473,PID205,Leather Wallet,Fashion,3,1587.82,0,Mumbai
+2024-01-27,ORD1474,PID247,Urban Denim Jacket,Fashion,6,1703.62,0,Delhi
+2023-02-09,ORD1475,PID222,Volt Headphones,Electronics,4,19861.43,33,Mumbai
+2024-04-26,ORD1476,PID244,Vacuum Cleaner,Home & Kitchen,3,4566.12,0,Kolkata
+2023-08-16,ORD1477,PID209,Vacuum Cleaner,Home & Kitchen,5,13003.21,0,Kolkata
+2023-07-24,ORD1478,PID233,Smart Vision TV,Electronics,5,27378.92,0,Delhi
+2024-04-16,ORD1479,PID209,Vacuum Cleaner,Home & Kitchen,5,12258.12,0,Chennai
+2023-12-25,ORD1480,PID214,Ceramic Dinner Set,Home & Kitchen,2,10900.59,6,Delhi
+2023-11-09,ORD1481,PID250,Vacuum Cleaner,Home & Kitchen,4,11517.88,26,Kolkata
+2023-08-22,ORD1482,PID247,Urban Denim Jacket,Fashion,7,4981.86,25,Kolkata
+2023-08-17,ORD1483,PID212,Volt Headphones,Electronics,2,44913.18,0,Bangalore
+2023-01-25,ORD1484,PID226,Bamboo Chopping Board,Home & Kitchen,4,7611.34,40,Mumbai
+2024-11-06,ORD1485,PID226,Bamboo Chopping Board,Home & Kitchen,3,14194.92,39,Chennai
+2023-07-17,ORD1486,PID248,Mystery Novel,Books,1,848.68,0,Delhi
+2024-02-13,ORD1487,PID209,Vacuum Cleaner,Home & Kitchen,2,3462.62,0,Bangalore
+2023-12-03,ORD1488,PID206,Bamboo Chopping Board,Home & Kitchen,7,1015.27,0,Bangalore
+2023-10-13,ORD1489,PID223,Bamboo Chopping Board,Home & Kitchen,1,7574.94,17,Kolkata
+2023-03-13,ORD1490,PID235,Zen Laptop,Electronics,6,30002.39,33,Mumbai
+2023-10-13,ORD1491,PID221,Children Storybook,Books,2,1316.61,0,Kolkata
+2023-12-26,ORD1492,PID210,Children Storybook,Books,2,460.72,0,Bangalore
+2024-10-18,ORD1493,PID243,Silk Saree,Fashion,5,3773.79,0,Kolkata
+2024-06-05,ORD1494,PID233,Smart Vision TV,Electronics,3,35615.61,20,Kolkata
+2024-02-14,ORD1495,PID247,Urban Denim Jacket,Fashion,3,730.21,0,Chennai
+2024-11-26,ORD1496,PID247,Urban Denim Jacket,Fashion,6,1375.95,25,Chennai
+2024-07-03,ORD1497,PID228,Cookbook,Books,3,646.32,0,Kolkata
+2023-12-06,ORD1498,PID242,Aura Smartphone,Electronics,7,45297.89,37,Chennai
+2023-01-29,ORD1499,PID242,Aura Smartphone,Electronics,6,29580.45,0,Chennai
+2023-04-29,ORD1500,PID239,Vacuum Cleaner,Home & Kitchen,3,10301.86,0,Mumbai
+2023-09-25,ORD1501,PID206,Bamboo Chopping Board,Home & Kitchen,5,2191.35,0,Mumbai
+2023-07-02,ORD1502,PID238,Zen Laptop,Electronics,8,37573.26,23,Bangalore
+2024-08-17,ORD1503,PID219,Science Textbook,Books,6,969.4,0,Bangalore
+2023-09-29,ORD1504,PID204,Aura Smartphone,Electronics,5,62847.56,0,Delhi
+2023-02-09,ORD1505,PID216,Pixel Tablet,Electronics,3,52172.41,0,Kolkata
+2023-04-22,ORD1506,PID201,Mystery Novel,Books,6,900.09,0,Mumbai
+2024-09-02,ORD1507,PID245,Smart Vision TV,Electronics,5,12723.98,18,Bangalore
+2024-03-20,ORD1508,PID249,Cotton T-shirt,Fashion,3,4117.85,0,Chennai
+2023-12-20,ORD1509,PID212,Volt Headphones,Electronics,2,41989.2,0,Chennai
+2023-11-18,ORD1510,PID213,Vacuum Cleaner,Home & Kitchen,5,13429.04,27,Delhi
+2024-03-22,ORD1511,PID231,LED Table Lamp,Home & Kitchen,1,5121.1,0,Chennai
+2024-09-12,ORD1512,PID215,Zen Laptop,Electronics,6,32297.1,33,Kolkata
+2024-06-07,ORD1513,PID236,Vacuum Cleaner,Home & Kitchen,5,14862.05,20,Bangalore
+2023-04-29,ORD1514,PID228,Cookbook,Books,8,1012.47,31,Chennai
+2024-01-30,ORD1515,PID232,Volt Headphones,Electronics,5,67980.26,40,Chennai
+2024-08-13,ORD1516,PID236,Vacuum Cleaner,Home & Kitchen,1,7500.75,20,Chennai
+2023-07-14,ORD1517,PID243,Silk Saree,Fashion,4,1849.06,8,Mumbai
+2023-09-18,ORD1518,PID250,Vacuum Cleaner,Home & Kitchen,5,5714.86,18,Mumbai
+2023-02-15,ORD1519,PID217,Zen Laptop,Electronics,2,78592.86,19,Chennai
+2024-12-26,ORD1520,PID207,Volt Headphones,Electronics,2,31537.45,0,Mumbai
+2024-03-22,ORD1521,PID236,Vacuum Cleaner,Home & Kitchen,2,9074.57,0,Bangalore
+2023-01-02,ORD1522,PID203,Non-stick Fry Pan,Home & Kitchen,4,14515.94,0,Chennai
+2024-06-16,ORD1523,PID201,Mystery Novel,Books,6,993.16,0,Mumbai
+2024-07-05,ORD1524,PID242,Aura Smartphone,Electronics,1,50846.63,0,Delhi
+2024-12-04,ORD1525,PID243,Silk Saree,Fashion,6,2859.05,27,Chennai
+2024-11-17,ORD1526,PID214,Ceramic Dinner Set,Home & Kitchen,4,11686.71,12,Kolkata
+2023-07-21,ORD1527,PID223,Bamboo Chopping Board,Home & Kitchen,5,2472.3,18,Delhi
+2024-01-08,ORD1528,PID223,Bamboo Chopping Board,Home & Kitchen,3,764.09,5,Mumbai
+2024-03-17,ORD1529,PID222,Volt Headphones,Electronics,7,23354.9,0,Kolkata
+2023-03-13,ORD1530,PID224,LED Table Lamp,Home & Kitchen,3,4911.28,5,Delhi
+2024-11-11,ORD1531,PID233,Smart Vision TV,Electronics,6,38907.21,0,Delhi
+2023-12-05,ORD1532,PID231,LED Table Lamp,Home & Kitchen,2,6332.55,0,Chennai
+2024-09-30,ORD1533,PID234,Children Storybook,Books,8,1404.63,25,Mumbai
+2023-11-18,ORD1534,PID217,Zen Laptop,Electronics,8,59404.27,10,Chennai
+2024-11-10,ORD1535,PID212,Volt Headphones,Electronics,10,24513.92,0,Bangalore
+2023-05-08,ORD1536,PID212,Volt Headphones,Electronics,6,79868.6,22,Kolkata
+2023-11-04,ORD1537,PID216,Pixel Tablet,Electronics,6,46783.4,9,Bangalore
+2024-06-03,ORD1538,PID234,Children Storybook,Books,3,1448.02,20,Kolkata
+2023-11-13,ORD1539,PID225,Zen Laptop,Electronics,5,73848.69,0,Bangalore
+2024-11-13,ORD1540,PID207,Volt Headphones,Electronics,4,48239.13,0,Bangalore
+2024-02-23,ORD1541,PID207,Volt Headphones,Electronics,5,52705.36,0,Delhi
+2023-12-01,ORD1542,PID223,Bamboo Chopping Board,Home & Kitchen,1,14372.86,0,Bangalore
+2024-02-17,ORD1543,PID246,Mystery Novel,Books,6,969.7,17,Delhi
+2024-12-14,ORD1544,PID240,Leather Wallet,Fashion,3,4736.68,0,Bangalore
+2023-10-30,ORD1545,PID224,LED Table Lamp,Home & Kitchen,1,11636.26,0,Delhi
+2024-07-21,ORD1546,PID214,Ceramic Dinner Set,Home & Kitchen,4,10446.53,6,Kolkata
+2023-05-11,ORD1547,PID210,Children Storybook,Books,5,680.45,0,Bangalore
+2023-07-16,ORD1548,PID248,Mystery Novel,Books,4,972.59,25,Bangalore
+2024-03-06,ORD1549,PID249,Cotton T-shirt,Fashion,3,1795.05,26,Chennai
+2024-11-11,ORD1550,PID206,Bamboo Chopping Board,Home & Kitchen,3,10246.35,0,Kolkata
+2024-01-24,ORD1551,PID249,Cotton T-shirt,Fashion,5,4530.92,0,Kolkata
+2024-11-24,ORD1552,PID218,Cookbook,Books,7,1282.05,0,Delhi
+2023-06-28,ORD1553,PID224,LED Table Lamp,Home & Kitchen,4,4569.65,0,Bangalore
+2024-09-22,ORD1554,PID212,Volt Headphones,Electronics,3,76871.96,0,Mumbai
+2024-08-05,ORD1555,PID236,Vacuum Cleaner,Home & Kitchen,5,5391.54,20,Kolkata
+2023-11-05,ORD1556,PID245,Smart Vision TV,Electronics,9,55918.04,24,Kolkata
+2024-02-20,ORD1557,PID238,Zen Laptop,Electronics,7,24979.08,29,Chennai
+2024-07-15,ORD1558,PID242,Aura Smartphone,Electronics,1,28979.29,0,Chennai
+2023-01-01,ORD1559,PID204,Aura Smartphone,Electronics,4,58731.99,0,Delhi
+2023-11-08,ORD1560,PID208,Bamboo Chopping Board,Home & Kitchen,9,1905.63,39,Chennai
+2023-10-21,ORD1561,PID249,Cotton T-shirt,Fashion,2,1576.77,0,Mumbai
+2023-08-04,ORD1562,PID225,Zen Laptop,Electronics,3,56888.38,0,Chennai
+2024-03-16,ORD1563,PID206,Bamboo Chopping Board,Home & Kitchen,4,3617.37,0,Delhi
+2024-08-16,ORD1564,PID234,Children Storybook,Books,5,362.99,0,Kolkata
+2024-09-13,ORD1565,PID246,Mystery Novel,Books,4,696.35,17,Kolkata
+2024-11-01,ORD1566,PID209,Vacuum Cleaner,Home & Kitchen,3,1778.01,0,Delhi
+2023-11-26,ORD1567,PID212,Volt Headphones,Electronics,6,10362.7,0,Chennai
+2024-04-21,ORD1568,PID246,Mystery Novel,Books,5,1473.49,22,Delhi
+2024-03-28,ORD1569,PID214,Ceramic Dinner Set,Home & Kitchen,3,6281.54,0,Kolkata
+2024-03-28,ORD1570,PID239,Vacuum Cleaner,Home & Kitchen,5,7318.49,0,Delhi
+2024-11-22,ORD1571,PID242,Aura Smartphone,Electronics,4,62913.77,0,Bangalore
+2023-08-07,ORD1572,PID244,Vacuum Cleaner,Home & Kitchen,3,5021.17,0,Mumbai
+2024-06-07,ORD1573,PID203,Non-stick Fry Pan,Home & Kitchen,8,13646.67,34,Mumbai
+2024-04-29,ORD1574,PID223,Bamboo Chopping Board,Home & Kitchen,2,9888.79,0,Delhi
+2023-06-23,ORD1575,PID236,Vacuum Cleaner,Home & Kitchen,4,8166.74,0,Mumbai
+2024-11-05,ORD1576,PID240,Leather Wallet,Fashion,3,4609.53,0,Delhi
+2023-03-28,ORD1577,PID222,Volt Headphones,Electronics,4,39251.95,30,Delhi
+2023-10-18,ORD1578,PID245,Smart Vision TV,Electronics,11,75374.58,23,Mumbai
+2024-06-11,ORD1579,PID250,Vacuum Cleaner,Home & Kitchen,3,14958.43,0,Kolkata
+2024-11-10,ORD1580,PID242,Aura Smartphone,Electronics,6,65157.24,15,Delhi
+2024-10-10,ORD1581,PID211,Smart Vision TV,Electronics,4,75562.61,0,Bangalore
+2024-09-26,ORD1582,PID250,Vacuum Cleaner,Home & Kitchen,4,13188.12,0,Mumbai
+2023-12-10,ORD1583,PID221,Children Storybook,Books,11,658.07,24,Chennai
+2023-04-06,ORD1584,PID214,Ceramic Dinner Set,Home & Kitchen,5,1877.32,0,Bangalore
+2023-08-29,ORD1585,PID215,Zen Laptop,Electronics,2,29919.32,0,Chennai
+2024-11-19,ORD1586,PID212,Volt Headphones,Electronics,5,46702.3,14,Delhi
+2023-11-14,ORD1587,PID244,Vacuum Cleaner,Home & Kitchen,2,12810.58,0,Kolkata
+2023-08-19,ORD1588,PID207,Volt Headphones,Electronics,4,29098.6,0,Mumbai
+2023-07-23,ORD1589,PID217,Zen Laptop,Electronics,8,33147.89,27,Kolkata
+2023-05-31,ORD1590,PID230,Pixel Tablet,Electronics,3,55379.97,8,Delhi
+2023-01-26,ORD1591,PID225,Zen Laptop,Electronics,8,10985.89,36,Bangalore
+2023-02-17,ORD1592,PID214,Ceramic Dinner Set,Home & Kitchen,2,11924.28,9,Chennai
+2023-09-08,ORD1593,PID224,LED Table Lamp,Home & Kitchen,6,10213.7,25,Delhi
+2024-05-01,ORD1594,PID201,Mystery Novel,Books,1,510.59,18,Kolkata
+2024-09-17,ORD1595,PID247,Urban Denim Jacket,Fashion,6,4221.45,39,Chennai
+2023-03-16,ORD1596,PID250,Vacuum Cleaner,Home & Kitchen,4,5120.52,36,Kolkata
+2024-04-11,ORD1597,PID206,Bamboo Chopping Board,Home & Kitchen,2,10138.06,0,Delhi
+2024-02-29,ORD1598,PID247,Urban Denim Jacket,Fashion,5,4917.58,25,Kolkata
+2024-10-06,ORD1599,PID227,Science Textbook,Books,5,688.32,40,Delhi
+2024-08-12,ORD1600,PID207,Volt Headphones,Electronics,2,10478.11,6,Kolkata
+2023-07-19,ORD1601,PID235,Zen Laptop,Electronics,1,26486.49,0,Bangalore
+2024-12-14,ORD1602,PID216,Pixel Tablet,Electronics,7,76782.44,34,Bangalore
+2024-01-29,ORD1603,PID208,Bamboo Chopping Board,Home & Kitchen,1,8862.17,0,Chennai
+2024-05-21,ORD1604,PID248,Mystery Novel,Books,5,313.72,0,Bangalore
+2024-02-14,ORD1605,PID221,Children Storybook,Books,9,1131.32,37,Mumbai
+2023-09-07,ORD1606,PID233,Smart Vision TV,Electronics,4,56745.03,16,Kolkata
+2023-06-01,ORD1607,PID223,Bamboo Chopping Board,Home & Kitchen,7,4810.05,36,Kolkata
+2024-11-02,ORD1608,PID220,Sports Shoes,Fashion,5,3587.33,0,Bangalore
+2024-12-05,ORD1609,PID212,Volt Headphones,Electronics,1,58320.33,7,Bangalore
+2023-01-06,ORD1610,PID216,Pixel Tablet,Electronics,2,35728.07,0,Delhi
+2023-04-20,ORD1611,PID232,Volt Headphones,Electronics,3,25339.0,0,Delhi
+2024-03-11,ORD1612,PID217,Zen Laptop,Electronics,5,43472.73,22,Kolkata
+2023-08-13,ORD1613,PID201,Mystery Novel,Books,5,1197.28,0,Chennai
+2023-06-30,ORD1614,PID235,Zen Laptop,Electronics,5,36153.74,40,Chennai
+2024-12-13,ORD1615,PID201,Mystery Novel,Books,5,1395.36,0,Chennai
+2024-06-14,ORD1616,PID243,Silk Saree,Fashion,8,4108.98,0,Delhi
+2024-04-20,ORD1617,PID220,Sports Shoes,Fashion,5,3928.37,29,Chennai
+2023-02-21,ORD1618,PID214,Ceramic Dinner Set,Home & Kitchen,2,13135.09,19,Mumbai
+2024-07-24,ORD1619,PID240,Leather Wallet,Fashion,7,2864.78,0,Chennai
+2023-09-13,ORD1620,PID245,Smart Vision TV,Electronics,1,59263.63,0,Mumbai
+2023-05-05,ORD1621,PID240,Leather Wallet,Fashion,5,4627.6,20,Mumbai
+2024-04-12,ORD1622,PID246,Mystery Novel,Books,5,374.11,30,Chennai
+2023-05-17,ORD1623,PID228,Cookbook,Books,1,1383.47,0,Delhi
+2024-04-20,ORD1624,PID202,Silk Saree,Fashion,7,3077.16,32,Delhi
+2024-11-14,ORD1625,PID227,Science Textbook,Books,5,497.44,0,Chennai
+2024-06-27,ORD1626,PID230,Pixel Tablet,Electronics,3,40928.84,0,Delhi
+2024-07-26,ORD1627,PID245,Smart Vision TV,Electronics,2,60184.26,0,Kolkata
+2024-09-01,ORD1628,PID248,Mystery Novel,Books,5,409.13,19,Chennai
+2023-11-21,ORD1629,PID233,Smart Vision TV,Electronics,7,41183.79,18,Mumbai
+2024-03-29,ORD1630,PID202,Silk Saree,Fashion,8,2540.45,22,Chennai
+2024-09-19,ORD1631,PID221,Children Storybook,Books,4,798.51,0,Chennai
+2024-05-31,ORD1632,PID207,Volt Headphones,Electronics,3,14041.57,0,Kolkata
+2024-03-12,ORD1633,PID248,Mystery Novel,Books,5,1107.32,0,Bangalore
+2024-07-15,ORD1634,PID232,Volt Headphones,Electronics,3,60629.61,0,Kolkata
+2024-04-01,ORD1635,PID208,Bamboo Chopping Board,Home & Kitchen,5,4040.52,0,Mumbai
+2023-06-12,ORD1636,PID209,Vacuum Cleaner,Home & Kitchen,4,11263.33,14,Chennai
+2024-05-01,ORD1637,PID216,Pixel Tablet,Electronics,4,15112.07,0,Kolkata
+2024-04-05,ORD1638,PID237,Children Storybook,Books,3,713.43,13,Mumbai
+2023-09-23,ORD1639,PID241,Children Storybook,Books,5,949.4,0,Mumbai
+2023-09-11,ORD1640,PID203,Non-stick Fry Pan,Home & Kitchen,5,14038.37,0,Mumbai
+2024-10-14,ORD1641,PID209,Vacuum Cleaner,Home & Kitchen,6,14796.22,25,Kolkata
+2023-10-11,ORD1642,PID204,Aura Smartphone,Electronics,13,12221.44,28,Kolkata
+2024-06-17,ORD1643,PID236,Vacuum Cleaner,Home & Kitchen,2,2945.73,0,Delhi
+2024-05-11,ORD1644,PID233,Smart Vision TV,Electronics,4,63607.94,29,Kolkata
+2024-10-03,ORD1645,PID206,Bamboo Chopping Board,Home & Kitchen,2,5804.58,14,Kolkata
+2023-09-02,ORD1646,PID246,Mystery Novel,Books,5,838.24,0,Kolkata
+2023-10-09,ORD1647,PID213,Vacuum Cleaner,Home & Kitchen,5,5821.99,22,Chennai
+2024-03-26,ORD1648,PID223,Bamboo Chopping Board,Home & Kitchen,5,2254.95,16,Bangalore
+2023-03-21,ORD1649,PID227,Science Textbook,Books,2,442.36,0,Chennai
+2024-12-31,ORD1650,PID229,Volt Headphones,Electronics,4,37514.1,27,Delhi
+2023-10-20,ORD1651,PID238,Zen Laptop,Electronics,9,60950.07,0,Delhi
+2023-08-29,ORD1652,PID248,Mystery Novel,Books,6,1301.79,35,Mumbai
+2023-10-06,ORD1653,PID232,Volt Headphones,Electronics,6,78494.35,0,Kolkata
+2023-12-10,ORD1654,PID221,Children Storybook,Books,8,1108.2,25,Chennai
+2023-11-24,ORD1655,PID215,Zen Laptop,Electronics,8,39688.96,0,Kolkata
+2024-07-07,ORD1656,PID228,Cookbook,Books,4,1288.03,0,Delhi
+2023-03-24,ORD1657,PID211,Smart Vision TV,Electronics,3,42243.77,31,Delhi
+2023-05-22,ORD1658,PID202,Silk Saree,Fashion,7,1740.42,34,Mumbai
+2023-06-04,ORD1659,PID227,Science Textbook,Books,8,338.66,30,Kolkata
+2023-08-25,ORD1660,PID239,Vacuum Cleaner,Home & Kitchen,5,9339.37,24,Mumbai
+2024-01-28,ORD1661,PID234,Children Storybook,Books,6,588.8,0,Mumbai
+2024-12-11,ORD1662,PID213,Vacuum Cleaner,Home & Kitchen,3,1783.18,0,Mumbai
+2023-06-06,ORD1663,PID221,Children Storybook,Books,2,835.73,0,Mumbai
+2024-12-24,ORD1664,PID204,Aura Smartphone,Electronics,6,27131.39,24,Mumbai
+2023-08-08,ORD1665,PID207,Volt Headphones,Electronics,4,38158.57,18,Delhi
+2023-03-07,ORD1666,PID205,Leather Wallet,Fashion,6,2928.92,33,Mumbai
+2024-02-29,ORD1667,PID242,Aura Smartphone,Electronics,1,19809.49,0,Bangalore
+2024-02-22,ORD1668,PID249,Cotton T-shirt,Fashion,5,1553.73,0,Chennai
+2023-12-05,ORD1669,PID246,Mystery Novel,Books,2,682.68,0,Chennai
+2024-07-09,ORD1670,PID208,Bamboo Chopping Board,Home & Kitchen,4,11656.31,0,Bangalore
+2024-04-22,ORD1671,PID244,Vacuum Cleaner,Home & Kitchen,1,3782.49,0,Delhi
+2024-03-01,ORD1672,PID246,Mystery Novel,Books,1,1482.83,0,Chennai
+2023-03-05,ORD1673,PID213,Vacuum Cleaner,Home & Kitchen,3,3549.33,0,Bangalore
+2023-07-31,ORD1674,PID230,Pixel Tablet,Electronics,6,29260.77,21,Chennai
+2024-03-06,ORD1675,PID242,Aura Smartphone,Electronics,3,76396.42,13,Delhi
+2024-02-03,ORD1676,PID242,Aura Smartphone,Electronics,6,53819.52,18,Kolkata
+2024-08-21,ORD1677,PID231,LED Table Lamp,Home & Kitchen,5,8471.0,0,Mumbai
+2024-12-13,ORD1678,PID235,Zen Laptop,Electronics,2,78060.32,0,Kolkata
+2023-01-21,ORD1679,PID233,Smart Vision TV,Electronics,5,65006.32,0,Bangalore
+2024-08-12,ORD1680,PID237,Children Storybook,Books,5,1135.57,0,Kolkata
+2024-01-25,ORD1681,PID222,Volt Headphones,Electronics,7,20445.23,37,Kolkata
+2024-05-03,ORD1682,PID243,Silk Saree,Fashion,3,1327.46,0,Chennai
+2023-01-07,ORD1683,PID224,LED Table Lamp,Home & Kitchen,4,7260.73,0,Delhi
+2023-12-27,ORD1684,PID245,Smart Vision TV,Electronics,8,31051.55,26,Delhi
+2023-11-02,ORD1685,PID243,Silk Saree,Fashion,4,4125.99,0,Mumbai
+2024-02-04,ORD1686,PID246,Mystery Novel,Books,7,974.86,9,Kolkata
+2024-03-05,ORD1687,PID247,Urban Denim Jacket,Fashion,4,3007.79,0,Delhi
+2024-07-05,ORD1688,PID231,LED Table Lamp,Home & Kitchen,1,6009.76,0,Bangalore
+2024-07-13,ORD1689,PID212,Volt Headphones,Electronics,8,24233.57,25,Mumbai
+2024-09-09,ORD1690,PID201,Mystery Novel,Books,4,1406.67,0,Bangalore
+2023-08-14,ORD1691,PID208,Bamboo Chopping Board,Home & Kitchen,1,1659.22,0,Delhi
+2024-05-14,ORD1692,PID212,Volt Headphones,Electronics,2,13607.56,5,Kolkata
+2023-08-13,ORD1693,PID247,Urban Denim Jacket,Fashion,6,3531.52,0,Chennai
+2023-10-07,ORD1694,PID249,Cotton T-shirt,Fashion,3,677.96,0,Mumbai
+2024-03-22,ORD1695,PID243,Silk Saree,Fashion,2,1346.73,0,Chennai
+2024-05-12,ORD1696,PID209,Vacuum Cleaner,Home & Kitchen,6,10947.29,35,Chennai
+2023-01-30,ORD1697,PID217,Zen Laptop,Electronics,2,25191.16,0,Delhi
+2024-02-03,ORD1698,PID205,Leather Wallet,Fashion,3,4412.63,0,Bangalore
+2023-12-11,ORD1699,PID226,Bamboo Chopping Board,Home & Kitchen,5,4756.86,36,Mumbai
+2024-11-15,ORD1700,PID237,Children Storybook,Books,5,554.17,0,Delhi
+2024-11-26,ORD1701,PID221,Children Storybook,Books,2,1454.49,15,Mumbai
+2024-02-19,ORD1702,PID210,Children Storybook,Books,2,1196.26,0,Kolkata
+2023-06-19,ORD1703,PID240,Leather Wallet,Fashion,4,4614.99,0,Chennai
+2024-04-23,ORD1704,PID243,Silk Saree,Fashion,3,3666.96,6,Kolkata
+2023-05-11,ORD1705,PID226,Bamboo Chopping Board,Home & Kitchen,2,13752.36,0,Chennai
+2024-09-29,ORD1706,PID214,Ceramic Dinner Set,Home & Kitchen,6,5027.74,0,Bangalore
+2024-06-30,ORD1707,PID232,Volt Headphones,Electronics,6,36646.32,6,Chennai
+2023-01-28,ORD1708,PID217,Zen Laptop,Electronics,6,55410.49,0,Bangalore
+2024-02-08,ORD1709,PID206,Bamboo Chopping Board,Home & Kitchen,1,4144.96,0,Chennai
+2024-08-29,ORD1710,PID233,Smart Vision TV,Electronics,3,71796.84,0,Kolkata
+2024-07-31,ORD1711,PID250,Vacuum Cleaner,Home & Kitchen,6,1749.54,40,Kolkata
+2024-11-09,ORD1712,PID247,Urban Denim Jacket,Fashion,2,3927.33,0,Bangalore
+2023-01-28,ORD1713,PID236,Vacuum Cleaner,Home & Kitchen,2,13740.66,0,Bangalore
+2023-03-27,ORD1714,PID225,Zen Laptop,Electronics,5,31904.54,0,Mumbai
+2024-10-20,ORD1715,PID219,Science Textbook,Books,5,975.03,13,Delhi
+2024-03-14,ORD1716,PID202,Silk Saree,Fashion,4,3835.64,20,Mumbai
+2023-05-19,ORD1717,PID238,Zen Laptop,Electronics,4,28254.19,18,Chennai
+2024-04-17,ORD1718,PID210,Children Storybook,Books,1,994.97,0,Kolkata
+2023-07-06,ORD1719,PID246,Mystery Novel,Books,5,654.23,0,Delhi
+2023-02-21,ORD1720,PID246,Mystery Novel,Books,5,695.84,0,Kolkata
+2023-09-24,ORD1721,PID238,Zen Laptop,Electronics,6,49885.27,10,Delhi
+2024-01-24,ORD1722,PID242,Aura Smartphone,Electronics,4,44951.1,17,Bangalore
+2023-12-02,ORD1723,PID221,Children Storybook,Books,5,608.79,0,Kolkata
+2023-08-05,ORD1724,PID244,Vacuum Cleaner,Home & Kitchen,5,14507.67,0,Kolkata
+2024-04-10,ORD1725,PID230,Pixel Tablet,Electronics,7,42258.03,23,Bangalore
+2023-12-01,ORD1726,PID220,Sports Shoes,Fashion,4,1261.7,26,Chennai
+2023-12-12,ORD1727,PID210,Children Storybook,Books,4,885.98,0,Chennai
+2024-01-24,ORD1728,PID217,Zen Laptop,Electronics,3,79322.65,0,Mumbai
+2023-10-12,ORD1729,PID222,Volt Headphones,Electronics,8,46676.11,0,Mumbai
+2024-03-07,ORD1730,PID206,Bamboo Chopping Board,Home & Kitchen,4,14194.27,0,Mumbai
+2023-09-16,ORD1731,PID222,Volt Headphones,Electronics,5,63503.72,0,Kolkata
+2023-03-25,ORD1732,PID202,Silk Saree,Fashion,3,1118.71,0,Delhi
+2024-04-26,ORD1733,PID235,Zen Laptop,Electronics,4,14757.76,17,Delhi
+2023-01-20,ORD1734,PID224,LED Table Lamp,Home & Kitchen,5,434.38,17,Chennai
+2024-07-06,ORD1735,PID213,Vacuum Cleaner,Home & Kitchen,7,7003.34,35,Mumbai
+2023-02-23,ORD1736,PID228,Cookbook,Books,2,1041.4,0,Chennai
+2023-12-25,ORD1737,PID232,Volt Headphones,Electronics,4,73892.6,0,Kolkata
+2023-08-18,ORD1738,PID232,Volt Headphones,Electronics,9,11101.22,26,Chennai
+2024-10-27,ORD1739,PID240,Leather Wallet,Fashion,6,2982.4,0,Mumbai
+2023-03-12,ORD1740,PID242,Aura Smartphone,Electronics,6,11170.83,0,Bangalore
+2024-10-29,ORD1741,PID208,Bamboo Chopping Board,Home & Kitchen,3,8175.35,9,Bangalore
+2023-02-11,ORD1742,PID213,Vacuum Cleaner,Home & Kitchen,6,552.0,0,Kolkata
+2023-02-01,ORD1743,PID215,Zen Laptop,Electronics,5,66431.74,0,Delhi
+2023-09-11,ORD1744,PID211,Smart Vision TV,Electronics,3,17491.15,0,Mumbai
+2023-07-24,ORD1745,PID230,Pixel Tablet,Electronics,5,46706.98,0,Delhi
+2023-01-21,ORD1746,PID210,Children Storybook,Books,6,530.32,35,Chennai
+2024-09-28,ORD1747,PID238,Zen Laptop,Electronics,4,27669.27,6,Bangalore
+2023-06-06,ORD1748,PID201,Mystery Novel,Books,5,620.79,0,Kolkata
+2023-09-02,ORD1749,PID202,Silk Saree,Fashion,6,855.59,0,Kolkata
+2023-05-10,ORD1750,PID212,Volt Headphones,Electronics,2,42129.84,0,Delhi
+2024-04-29,ORD1751,PID248,Mystery Novel,Books,5,1488.28,0,Delhi
+2024-11-16,ORD1752,PID240,Leather Wallet,Fashion,6,1849.89,0,Mumbai
+2023-04-28,ORD1753,PID217,Zen Laptop,Electronics,5,55761.5,22,Mumbai
+2024-07-31,ORD1754,PID210,Children Storybook,Books,2,412.2,0,Kolkata
+2023-08-12,ORD1755,PID242,Aura Smartphone,Electronics,10,36401.87,37,Kolkata
+2024-04-21,ORD1756,PID215,Zen Laptop,Electronics,5,13928.05,0,Mumbai
+2024-12-17,ORD1757,PID242,Aura Smartphone,Electronics,1,59199.16,10,Mumbai
+2023-09-20,ORD1758,PID247,Urban Denim Jacket,Fashion,7,2749.36,31,Kolkata
+2024-01-13,ORD1759,PID240,Leather Wallet,Fashion,3,3402.08,0,Bangalore
+2023-06-21,ORD1760,PID230,Pixel Tablet,Electronics,5,49609.96,16,Mumbai
+2024-09-12,ORD1761,PID231,LED Table Lamp,Home & Kitchen,7,13453.43,27,Mumbai
+2024-09-13,ORD1762,PID202,Silk Saree,Fashion,5,1533.95,13,Chennai
+2023-04-28,ORD1763,PID222,Volt Headphones,Electronics,3,43285.02,0,Mumbai
+2023-06-17,ORD1764,PID206,Bamboo Chopping Board,Home & Kitchen,4,13885.14,0,Bangalore
+2023-11-15,ORD1765,PID213,Vacuum Cleaner,Home & Kitchen,2,13519.88,10,Chennai
+2023-04-21,ORD1766,PID240,Leather Wallet,Fashion,2,3461.49,0,Delhi
+2024-08-15,ORD1767,PID205,Leather Wallet,Fashion,2,4679.45,0,Bangalore
+2023-01-27,ORD1768,PID226,Bamboo Chopping Board,Home & Kitchen,2,530.17,0,Delhi
+2023-11-16,ORD1769,PID212,Volt Headphones,Electronics,7,51092.53,10,Kolkata
+2024-08-12,ORD1770,PID206,Bamboo Chopping Board,Home & Kitchen,6,13954.46,26,Bangalore
+2024-11-24,ORD1771,PID211,Smart Vision TV,Electronics,8,21371.52,0,Delhi
+2024-01-20,ORD1772,PID239,Vacuum Cleaner,Home & Kitchen,11,8630.43,28,Kolkata
+2024-02-11,ORD1773,PID211,Smart Vision TV,Electronics,7,57392.45,40,Chennai
+2023-07-23,ORD1774,PID223,Bamboo Chopping Board,Home & Kitchen,11,5176.43,33,Delhi
+2023-03-19,ORD1775,PID223,Bamboo Chopping Board,Home & Kitchen,6,11920.32,0,Mumbai
+2024-08-29,ORD1776,PID230,Pixel Tablet,Electronics,3,45055.5,0,Bangalore
+2024-12-08,ORD1777,PID216,Pixel Tablet,Electronics,3,13758.75,0,Kolkata
+2024-10-04,ORD1778,PID205,Leather Wallet,Fashion,1,1544.65,9,Mumbai
+2023-09-06,ORD1779,PID202,Silk Saree,Fashion,7,2032.67,21,Chennai
+2023-04-15,ORD1780,PID243,Silk Saree,Fashion,6,4796.86,0,Kolkata
+2024-12-14,ORD1781,PID249,Cotton T-shirt,Fashion,4,4860.14,11,Bangalore
+2023-11-05,ORD1782,PID224,LED Table Lamp,Home & Kitchen,3,735.5,0,Bangalore
+2024-12-01,ORD1783,PID237,Children Storybook,Books,5,1240.26,24,Kolkata
+2024-09-06,ORD1784,PID250,Vacuum Cleaner,Home & Kitchen,5,7511.87,0,Bangalore
+2023-05-04,ORD1785,PID212,Volt Headphones,Electronics,5,48712.64,0,Kolkata
+2024-08-02,ORD1786,PID216,Pixel Tablet,Electronics,3,40229.36,30,Chennai
+2023-02-12,ORD1787,PID241,Children Storybook,Books,6,1092.81,0,Mumbai
+2023-12-22,ORD1788,PID227,Science Textbook,Books,1,1226.6,0,Bangalore
+2024-06-29,ORD1789,PID229,Volt Headphones,Electronics,4,65863.86,8,Mumbai
+2024-03-14,ORD1790,PID202,Silk Saree,Fashion,3,869.17,0,Delhi
+2024-11-08,ORD1791,PID243,Silk Saree,Fashion,4,2210.0,10,Delhi
+2024-01-15,ORD1792,PID215,Zen Laptop,Electronics,3,61775.87,0,Bangalore
+2023-03-12,ORD1793,PID217,Zen Laptop,Electronics,4,35249.02,0,Mumbai
+2024-06-02,ORD1794,PID213,Vacuum Cleaner,Home & Kitchen,9,376.37,27,Bangalore
+2024-10-25,ORD1795,PID214,Ceramic Dinner Set,Home & Kitchen,2,6837.62,0,Bangalore
+2023-12-16,ORD1796,PID247,Urban Denim Jacket,Fashion,9,960.04,23,Mumbai
+2023-01-13,ORD1797,PID209,Vacuum Cleaner,Home & Kitchen,3,3054.66,0,Kolkata
+2024-03-06,ORD1798,PID205,Leather Wallet,Fashion,3,3006.43,18,Chennai
+2024-05-16,ORD1799,PID222,Volt Headphones,Electronics,4,38563.09,0,Mumbai
+2023-04-19,ORD1800,PID238,Zen Laptop,Electronics,3,16273.32,16,Chennai
+2024-03-19,ORD1801,PID234,Children Storybook,Books,2,411.68,0,Chennai
+2024-01-06,ORD1802,PID236,Vacuum Cleaner,Home & Kitchen,5,11831.25,0,Kolkata
+2024-10-12,ORD1803,PID239,Vacuum Cleaner,Home & Kitchen,6,481.41,0,Kolkata
+2024-04-15,ORD1804,PID203,Non-stick Fry Pan,Home & Kitchen,5,6000.65,30,Mumbai
+2024-12-25,ORD1805,PID225,Zen Laptop,Electronics,1,60739.07,0,Chennai
+2023-06-06,ORD1806,PID206,Bamboo Chopping Board,Home & Kitchen,4,13606.55,12,Delhi
+2024-03-21,ORD1807,PID221,Children Storybook,Books,2,986.35,0,Delhi
+2023-06-30,ORD1808,PID221,Children Storybook,Books,5,1122.38,11,Delhi
+2024-06-18,ORD1809,PID247,Urban Denim Jacket,Fashion,3,1124.78,12,Bangalore
+2024-10-28,ORD1810,PID217,Zen Laptop,Electronics,10,28788.48,0,Delhi
+2023-10-04,ORD1811,PID229,Volt Headphones,Electronics,10,14428.7,0,Kolkata
+2024-09-22,ORD1812,PID212,Volt Headphones,Electronics,7,29317.33,0,Bangalore
+2024-07-05,ORD1813,PID239,Vacuum Cleaner,Home & Kitchen,5,7418.2,23,Mumbai
+2024-05-10,ORD1814,PID241,Children Storybook,Books,5,733.35,5,Delhi
+2024-04-21,ORD1815,PID245,Smart Vision TV,Electronics,6,60462.96,0,Kolkata
+2024-03-22,ORD1816,PID228,Cookbook,Books,1,1012.57,0,Delhi
+2024-08-29,ORD1817,PID242,Aura Smartphone,Electronics,5,42050.31,0,Delhi
+2023-10-02,ORD1818,PID211,Smart Vision TV,Electronics,5,31326.06,0,Kolkata
+2023-11-27,ORD1819,PID221,Children Storybook,Books,2,698.66,0,Chennai
+2023-09-09,ORD1820,PID215,Zen Laptop,Electronics,6,36592.3,0,Bangalore
+2023-03-30,ORD1821,PID234,Children Storybook,Books,3,828.27,0,Kolkata
+2023-10-13,ORD1822,PID211,Smart Vision TV,Electronics,7,67083.28,13,Chennai
+2024-04-06,ORD1823,PID220,Sports Shoes,Fashion,6,1112.56,0,Bangalore
+2023-09-07,ORD1824,PID203,Non-stick Fry Pan,Home & Kitchen,7,9167.21,26,Delhi
+2024-04-20,ORD1825,PID250,Vacuum Cleaner,Home & Kitchen,2,7341.44,12,Delhi
+2024-08-06,ORD1826,PID217,Zen Laptop,Electronics,5,77520.22,31,Bangalore
+2024-09-16,ORD1827,PID211,Smart Vision TV,Electronics,2,30401.37,10,Kolkata
+2024-11-15,ORD1828,PID217,Zen Laptop,Electronics,6,77743.42,0,Delhi
+2024-01-24,ORD1829,PID249,Cotton T-shirt,Fashion,3,1966.49,38,Bangalore
+2023-12-11,ORD1830,PID244,Vacuum Cleaner,Home & Kitchen,2,12302.47,0,Kolkata
+2023-01-30,ORD1831,PID232,Volt Headphones,Electronics,1,35551.09,16,Chennai
+2024-05-21,ORD1832,PID239,Vacuum Cleaner,Home & Kitchen,3,3237.06,6,Chennai
+2023-11-29,ORD1833,PID205,Leather Wallet,Fashion,2,1309.67,14,Chennai
+2023-07-06,ORD1834,PID228,Cookbook,Books,4,332.3,10,Kolkata
+2024-05-14,ORD1835,PID231,LED Table Lamp,Home & Kitchen,5,14161.73,0,Delhi
+2023-08-06,ORD1836,PID211,Smart Vision TV,Electronics,11,40691.85,21,Bangalore
+2023-12-30,ORD1837,PID214,Ceramic Dinner Set,Home & Kitchen,10,12519.84,38,Mumbai
+2023-09-22,ORD1838,PID211,Smart Vision TV,Electronics,9,67327.59,38,Kolkata
+2023-12-15,ORD1839,PID218,Cookbook,Books,5,1107.57,6,Delhi
+2023-10-14,ORD1840,PID229,Volt Headphones,Electronics,8,54333.52,0,Delhi
+2024-09-02,ORD1841,PID202,Silk Saree,Fashion,6,1637.07,28,Delhi
+2024-12-19,ORD1842,PID216,Pixel Tablet,Electronics,2,60066.55,0,Kolkata
+2023-10-10,ORD1843,PID220,Sports Shoes,Fashion,1,832.84,12,Chennai
+2024-07-23,ORD1844,PID218,Cookbook,Books,3,875.08,12,Kolkata
+2023-01-11,ORD1845,PID229,Volt Headphones,Electronics,5,47405.72,0,Kolkata
+2024-06-13,ORD1846,PID215,Zen Laptop,Electronics,4,48055.16,0,Bangalore
+2023-07-15,ORD1847,PID209,Vacuum Cleaner,Home & Kitchen,5,10614.02,0,Chennai
+2023-03-29,ORD1848,PID228,Cookbook,Books,4,1012.58,40,Mumbai
+2023-09-05,ORD1849,PID219,Science Textbook,Books,1,431.24,0,Delhi
+2024-02-21,ORD1850,PID237,Children Storybook,Books,3,1089.12,0,Bangalore
+2024-05-15,ORD1851,PID209,Vacuum Cleaner,Home & Kitchen,2,2745.18,0,Chennai
+2024-07-22,ORD1852,PID224,LED Table Lamp,Home & Kitchen,1,951.16,10,Kolkata
+2023-09-04,ORD1853,PID247,Urban Denim Jacket,Fashion,2,4850.65,0,Bangalore
+2024-12-08,ORD1854,PID243,Silk Saree,Fashion,8,4845.73,40,Kolkata
+2024-05-02,ORD1855,PID227,Science Textbook,Books,3,427.13,0,Mumbai
+2024-10-23,ORD1856,PID225,Zen Laptop,Electronics,6,28111.69,17,Chennai
+2024-12-29,ORD1857,PID220,Sports Shoes,Fashion,6,3860.84,25,Chennai
+2024-05-17,ORD1858,PID221,Children Storybook,Books,8,996.62,32,Chennai
+2024-04-03,ORD1859,PID248,Mystery Novel,Books,5,565.24,0,Bangalore
+2023-01-18,ORD1860,PID242,Aura Smartphone,Electronics,7,37379.39,30,Chennai
+2023-04-06,ORD1861,PID216,Pixel Tablet,Electronics,5,58330.61,0,Delhi
+2023-10-29,ORD1862,PID224,LED Table Lamp,Home & Kitchen,5,5371.02,0,Mumbai
+2023-08-15,ORD1863,PID236,Vacuum Cleaner,Home & Kitchen,2,7396.73,8,Bangalore
+2024-02-19,ORD1864,PID219,Science Textbook,Books,7,799.17,21,Mumbai
+2024-12-09,ORD1865,PID236,Vacuum Cleaner,Home & Kitchen,4,2006.22,0,Delhi
+2023-09-07,ORD1866,PID228,Cookbook,Books,4,717.99,13,Bangalore
+2023-11-10,ORD1867,PID209,Vacuum Cleaner,Home & Kitchen,4,6993.39,0,Delhi
+2024-11-10,ORD1868,PID209,Vacuum Cleaner,Home & Kitchen,3,7960.39,0,Bangalore
+2024-08-18,ORD1869,PID234,Children Storybook,Books,4,871.4,0,Kolkata
+2024-01-13,ORD1870,PID204,Aura Smartphone,Electronics,5,60539.58,0,Kolkata
+2024-04-29,ORD1871,PID246,Mystery Novel,Books,7,682.69,30,Bangalore
+2024-07-20,ORD1872,PID226,Bamboo Chopping Board,Home & Kitchen,9,956.84,33,Mumbai
+2024-06-27,ORD1873,PID233,Smart Vision TV,Electronics,3,11580.96,20,Bangalore
+2023-12-19,ORD1874,PID241,Children Storybook,Books,2,1077.56,17,Delhi
+2024-03-11,ORD1875,PID225,Zen Laptop,Electronics,2,75094.57,0,Delhi
+2024-07-17,ORD1876,PID235,Zen Laptop,Electronics,2,46119.57,0,Chennai
+2023-12-05,ORD1877,PID216,Pixel Tablet,Electronics,2,21209.5,10,Chennai
+2023-12-27,ORD1878,PID224,LED Table Lamp,Home & Kitchen,4,6567.63,0,Kolkata
+2024-12-20,ORD1879,PID248,Mystery Novel,Books,3,578.23,0,Kolkata
+2024-04-09,ORD1880,PID225,Zen Laptop,Electronics,3,54083.22,0,Delhi
+2023-10-05,ORD1881,PID244,Vacuum Cleaner,Home & Kitchen,4,9715.04,12,Kolkata
+2023-11-10,ORD1882,PID242,Aura Smartphone,Electronics,7,37690.77,0,Chennai
+2023-09-15,ORD1883,PID201,Mystery Novel,Books,3,1359.72,0,Kolkata
+2023-08-25,ORD1884,PID247,Urban Denim Jacket,Fashion,2,3164.91,0,Kolkata
+2023-05-04,ORD1885,PID244,Vacuum Cleaner,Home & Kitchen,1,365.42,0,Delhi
+2023-07-17,ORD1886,PID234,Children Storybook,Books,3,546.94,0,Mumbai
+2023-11-20,ORD1887,PID232,Volt Headphones,Electronics,7,50414.35,0,Chennai
+2023-05-03,ORD1888,PID236,Vacuum Cleaner,Home & Kitchen,3,3048.31,0,Bangalore
+2024-07-02,ORD1889,PID228,Cookbook,Books,5,536.49,15,Mumbai
+2024-12-07,ORD1890,PID206,Bamboo Chopping Board,Home & Kitchen,6,4156.59,5,Kolkata
+2023-07-09,ORD1891,PID204,Aura Smartphone,Electronics,3,46940.05,0,Bangalore
+2023-07-16,ORD1892,PID202,Silk Saree,Fashion,8,3186.37,0,Chennai
+2023-08-10,ORD1893,PID249,Cotton T-shirt,Fashion,3,2266.45,0,Mumbai
+2024-05-10,ORD1894,PID219,Science Textbook,Books,3,717.51,0,Kolkata
+2023-10-11,ORD1895,PID238,Zen Laptop,Electronics,7,53215.39,13,Bangalore
+2024-08-26,ORD1896,PID248,Mystery Novel,Books,4,1402.42,0,Chennai
+2024-06-21,ORD1897,PID222,Volt Headphones,Electronics,2,15932.64,0,Delhi
+2024-09-03,ORD1898,PID244,Vacuum Cleaner,Home & Kitchen,3,4903.83,0,Delhi
+2023-10-17,ORD1899,PID244,Vacuum Cleaner,Home & Kitchen,5,4789.09,0,Delhi
+2023-04-13,ORD1900,PID201,Mystery Novel,Books,5,747.97,0,Delhi
+2023-07-18,ORD1901,PID209,Vacuum Cleaner,Home & Kitchen,3,7809.13,0,Kolkata
+2023-10-31,ORD1902,PID209,Vacuum Cleaner,Home & Kitchen,2,9067.46,0,Chennai
+2023-08-21,ORD1903,PID225,Zen Laptop,Electronics,3,36859.7,0,Delhi
+2024-01-05,ORD1904,PID244,Vacuum Cleaner,Home & Kitchen,9,7454.05,23,Chennai
+2023-07-03,ORD1905,PID218,Cookbook,Books,5,1132.12,0,Delhi
+2023-11-06,ORD1906,PID212,Volt Headphones,Electronics,6,48843.88,39,Kolkata
+2023-01-15,ORD1907,PID203,Non-stick Fry Pan,Home & Kitchen,6,4545.87,0,Delhi
+2024-12-26,ORD1908,PID209,Vacuum Cleaner,Home & Kitchen,4,4924.33,0,Kolkata
+2024-06-30,ORD1909,PID245,Smart Vision TV,Electronics,4,53358.7,0,Bangalore
+2023-05-10,ORD1910,PID211,Smart Vision TV,Electronics,8,76628.94,36,Kolkata
+2023-10-08,ORD1911,PID209,Vacuum Cleaner,Home & Kitchen,3,2307.06,0,Kolkata
+2023-02-16,ORD1912,PID246,Mystery Novel,Books,5,1456.59,0,Chennai
+2023-02-25,ORD1913,PID225,Zen Laptop,Electronics,2,55714.88,0,Kolkata
+2024-07-20,ORD1914,PID210,Children Storybook,Books,3,1121.64,0,Kolkata
+2023-10-27,ORD1915,PID232,Volt Headphones,Electronics,7,59709.97,0,Kolkata
+2024-12-15,ORD1916,PID234,Children Storybook,Books,4,886.44,0,Mumbai
+2023-05-10,ORD1917,PID247,Urban Denim Jacket,Fashion,4,3044.29,0,Delhi
+2024-10-15,ORD1918,PID228,Cookbook,Books,2,650.51,0,Bangalore
+2024-05-17,ORD1919,PID220,Sports Shoes,Fashion,1,1511.8,0,Bangalore
+2023-04-16,ORD1920,PID201,Mystery Novel,Books,3,501.85,0,Kolkata
+2023-01-13,ORD1921,PID215,Zen Laptop,Electronics,4,49595.53,10,Kolkata
+2024-08-10,ORD1922,PID231,LED Table Lamp,Home & Kitchen,6,8380.97,0,Mumbai
+2023-10-19,ORD1923,PID222,Volt Headphones,Electronics,6,50089.98,0,Bangalore
+2024-04-25,ORD1924,PID207,Volt Headphones,Electronics,5,64257.91,0,Bangalore
+2024-05-05,ORD1925,PID234,Children Storybook,Books,5,950.45,21,Mumbai
+2024-03-27,ORD1926,PID249,Cotton T-shirt,Fashion,8,3920.02,38,Kolkata
+2023-12-15,ORD1927,PID232,Volt Headphones,Electronics,3,48244.73,0,Kolkata
+2023-07-08,ORD1928,PID206,Bamboo Chopping Board,Home & Kitchen,5,1805.52,8,Delhi
+2023-02-22,ORD1929,PID230,Pixel Tablet,Electronics,4,30839.63,0,Mumbai
+2023-09-16,ORD1930,PID201,Mystery Novel,Books,9,839.68,39,Bangalore
+2024-05-04,ORD1931,PID222,Volt Headphones,Electronics,3,70353.97,0,Mumbai
+2023-04-27,ORD1932,PID248,Mystery Novel,Books,1,826.88,0,Mumbai
+2023-03-08,ORD1933,PID249,Cotton T-shirt,Fashion,5,3990.34,28,Delhi
+2024-02-15,ORD1934,PID219,Science Textbook,Books,4,551.85,0,Chennai
+2024-05-18,ORD1935,PID242,Aura Smartphone,Electronics,5,58239.35,11,Chennai
+2023-03-17,ORD1936,PID238,Zen Laptop,Electronics,1,54293.94,0,Delhi
+2024-08-13,ORD1937,PID233,Smart Vision TV,Electronics,1,53130.58,0,Delhi
+2024-10-06,ORD1938,PID243,Silk Saree,Fashion,2,4160.88,0,Mumbai
+2024-12-03,ORD1939,PID234,Children Storybook,Books,5,984.09,0,Chennai
+2023-02-24,ORD1940,PID208,Bamboo Chopping Board,Home & Kitchen,5,4431.95,0,Chennai
+2023-06-05,ORD1941,PID211,Smart Vision TV,Electronics,1,21786.42,0,Bangalore
+2023-06-02,ORD1942,PID233,Smart Vision TV,Electronics,3,30253.33,0,Bangalore
+2024-07-30,ORD1943,PID239,Vacuum Cleaner,Home & Kitchen,7,14300.24,36,Chennai
+2023-11-08,ORD1944,PID235,Zen Laptop,Electronics,10,78984.18,15,Mumbai
+2023-03-29,ORD1945,PID238,Zen Laptop,Electronics,3,19491.22,0,Kolkata
+2023-09-12,ORD1946,PID243,Silk Saree,Fashion,1,4634.46,0,Bangalore
+2023-05-02,ORD1947,PID248,Mystery Novel,Books,2,1340.46,0,Delhi
+2024-07-25,ORD1948,PID202,Silk Saree,Fashion,9,3656.42,0,Delhi
+2024-03-02,ORD1949,PID239,Vacuum Cleaner,Home & Kitchen,3,3970.26,0,Bangalore
+2024-09-12,ORD1950,PID224,LED Table Lamp,Home & Kitchen,4,12478.68,8,Kolkata
+2024-09-02,ORD1951,PID246,Mystery Novel,Books,6,887.35,32,Chennai
+2024-09-25,ORD1952,PID234,Children Storybook,Books,2,1058.88,0,Kolkata
+2023-08-20,ORD1953,PID250,Vacuum Cleaner,Home & Kitchen,8,5815.03,27,Mumbai
+2024-06-19,ORD1954,PID229,Volt Headphones,Electronics,3,54353.94,0,Mumbai
+2024-01-25,ORD1955,PID211,Smart Vision TV,Electronics,3,38199.55,0,Bangalore
+2024-04-06,ORD1956,PID217,Zen Laptop,Electronics,4,58629.25,0,Bangalore
+2024-03-29,ORD1957,PID228,Cookbook,Books,5,845.63,32,Kolkata
+2023-11-01,ORD1958,PID204,Aura Smartphone,Electronics,7,32910.25,0,Mumbai
+2024-08-25,ORD1959,PID201,Mystery Novel,Books,5,1342.69,0,Mumbai
+2024-03-15,ORD1960,PID210,Children Storybook,Books,2,1177.12,10,Kolkata
+2023-11-09,ORD1961,PID205,Leather Wallet,Fashion,3,3356.78,0,Bangalore
+2024-08-05,ORD1962,PID235,Zen Laptop,Electronics,4,69507.44,0,Chennai
+2024-09-27,ORD1963,PID230,Pixel Tablet,Electronics,6,37840.11,29,Kolkata
+2023-03-03,ORD1964,PID239,Vacuum Cleaner,Home & Kitchen,2,12425.26,20,Kolkata
+2024-09-16,ORD1965,PID206,Bamboo Chopping Board,Home & Kitchen,2,4247.49,0,Bangalore
+2023-04-12,ORD1966,PID249,Cotton T-shirt,Fashion,2,2019.9,0,Chennai
+2023-08-01,ORD1967,PID226,Bamboo Chopping Board,Home & Kitchen,3,2219.74,0,Kolkata
+2024-10-02,ORD1968,PID226,Bamboo Chopping Board,Home & Kitchen,5,11888.06,11,Mumbai
+2023-08-05,ORD1969,PID239,Vacuum Cleaner,Home & Kitchen,6,975.36,0,Kolkata
+2023-09-28,ORD1970,PID221,Children Storybook,Books,4,319.54,0,Delhi
+2024-11-07,ORD1971,PID225,Zen Laptop,Electronics,5,40890.02,0,Mumbai
+2023-03-25,ORD1972,PID250,Vacuum Cleaner,Home & Kitchen,3,14880.02,0,Kolkata
+2023-06-10,ORD1973,PID242,Aura Smartphone,Electronics,7,24162.27,14,Delhi
+2023-09-03,ORD1974,PID229,Volt Headphones,Electronics,6,71750.34,0,Bangalore
+2023-06-27,ORD1975,PID236,Vacuum Cleaner,Home & Kitchen,2,2636.97,0,Bangalore
+2024-07-19,ORD1976,PID224,LED Table Lamp,Home & Kitchen,2,1672.1,0,Bangalore
+2023-03-18,ORD1977,PID230,Pixel Tablet,Electronics,9,27527.25,40,Bangalore
+2023-06-10,ORD1978,PID241,Children Storybook,Books,7,1097.41,36,Delhi
+2023-01-03,ORD1979,PID246,Mystery Novel,Books,5,362.14,0,Bangalore
+2024-02-23,ORD1980,PID232,Volt Headphones,Electronics,2,60819.19,0,Delhi
+2024-04-06,ORD1981,PID219,Science Textbook,Books,2,815.08,10,Mumbai
+2024-12-06,ORD1982,PID225,Zen Laptop,Electronics,3,59258.86,0,Mumbai
+2024-08-31,ORD1983,PID203,Non-stick Fry Pan,Home & Kitchen,4,3437.29,0,Mumbai
+2024-04-26,ORD1984,PID208,Bamboo Chopping Board,Home & Kitchen,2,2250.69,0,Delhi
+2023-10-26,ORD1985,PID209,Vacuum Cleaner,Home & Kitchen,1,7935.83,0,Kolkata
+2023-02-03,ORD1986,PID231,LED Table Lamp,Home & Kitchen,4,436.52,0,Bangalore
+2023-08-26,ORD1987,PID209,Vacuum Cleaner,Home & Kitchen,5,12311.5,0,Kolkata
+2023-10-23,ORD1988,PID242,Aura Smartphone,Electronics,7,58582.17,21,Kolkata
+2024-12-24,ORD1989,PID225,Zen Laptop,Electronics,5,14957.98,0,Kolkata
+2023-10-17,ORD1990,PID236,Vacuum Cleaner,Home & Kitchen,1,1613.17,0,Mumbai
+2024-12-20,ORD1991,PID220,Sports Shoes,Fashion,4,964.41,35,Bangalore
+2024-04-09,ORD1992,PID215,Zen Laptop,Electronics,2,71669.23,0,Delhi
+2023-03-14,ORD1993,PID229,Volt Headphones,Electronics,3,36790.47,0,Delhi
+2024-12-04,ORD1994,PID229,Volt Headphones,Electronics,2,54910.33,0,Delhi
+2023-08-28,ORD1995,PID205,Leather Wallet,Fashion,4,807.85,6,Chennai
+2023-09-28,ORD1996,PID209,Vacuum Cleaner,Home & Kitchen,2,424.58,5,Delhi
+2024-10-02,ORD1997,PID237,Children Storybook,Books,2,828.12,0,Delhi
+2024-08-26,ORD1998,PID242,Aura Smartphone,Electronics,2,53965.6,0,Delhi
+2024-11-08,ORD1999,PID234,Children Storybook,Books,4,1403.87,11,Chennai
+2023-07-22,ORD2000,PID235,Zen Laptop,Electronics,6,58059.63,14,Delhi
